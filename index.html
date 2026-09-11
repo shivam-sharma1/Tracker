@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>UPSC Revision Tracker</title>
+<meta name="theme-color" content="#0f172a" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div id="app">
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">◎</span>
+      <span class="brand-name">Revision Tracker</span>
+    </div>
+    <div class="topbar-stats" id="topbarStats"></div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab-btn active" data-tab="today">Today</button>
+    <button class="tab-btn" data-tab="due">Due &amp; Upcoming</button>
+    <button class="tab-btn" data-tab="subjects">Subjects</button>
+    <button class="tab-btn" data-tab="browse">Browse</button>
+    <button class="tab-btn" data-tab="stats">Stats</button>
+    <button class="tab-btn" data-tab="settings">Settings</button>
+  </nav>
+
+  <main id="main">
+
+    <section class="tab-panel active" id="panel-today">
+      <div class="panel-head">
+        <h1>Today's Study Plan</h1>
+        <p class="muted" id="todayDate"></p>
+      </div>
+      <div id="todayCards" class="cards"></div>
+      <div id="extraSlotWrap" class="extra-slot-wrap"></div>
+      <div id="revisionsWrap" class="revisions-wrap"></div>
+      <div class="algo-note" id="rotationNote"></div>
+    </section>
+
+    <section class="tab-panel" id="panel-due">
+      <div class="panel-head">
+        <h1>Due &amp; Upcoming Revisions</h1>
+        <p class="muted">Topics scheduled for revision based on the difficulty you gave them.</p>
+      </div>
+      <div id="dueList" class="list"></div>
+    </section>
+
+    <section class="tab-panel" id="panel-subjects">
+      <div class="panel-head">
+        <h1>Subjects Overview</h1>
+        <p class="muted" id="subjectsNote"></p>
+      </div>
+      <div id="subjectsList" class="subject-grid"></div>
+    </section>
+
+    <section class="tab-panel" id="panel-browse">
+      <div class="panel-head">
+        <h1>Browse Full Syllabus</h1>
+        <input type="search" id="browseSearch" placeholder="Search topics, subtopics, subjects…" />
+      </div>
+      <div id="browseTree" class="browse-tree"></div>
+    </section>
+
+    <section class="tab-panel" id="panel-stats">
+      <div class="panel-head">
+        <h1>Stats</h1>
+      </div>
+      <div id="statsGrid" class="stats-grid"></div>
+    </section>
+
+    <section class="tab-panel" id="panel-settings">
+      <div class="panel-head">
+        <h1>Settings</h1>
+      </div>
+      <div class="settings-box">
+        <h3>Backup</h3>
+        <p class="muted">Export your progress as a JSON file, or import a previous backup.</p>
+        <div class="btn-row">
+          <button id="exportBtn" class="btn">Export backup</button>
+          <label class="btn" for="importFile">Import backup</label>
+          <input type="file" id="importFile" accept="application/json" hidden />
+        </div>
+      </div>
+      <div class="settings-box">
+        <h3>Revision interval mapping</h3>
+        <p class="muted">Difficulty you assign controls how soon a topic resurfaces:</p>
+        <ul class="interval-legend" id="intervalLegend"></ul>
+      </div>
+      <div class="settings-box danger-box">
+        <h3>Reset</h3>
+        <p class="muted">Wipes all progress and starts fresh. This cannot be undone.</p>
+        <button id="resetBtn" class="btn btn-danger">Reset all progress</button>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<!-- Source add modal -->
+<div id="modalOverlay" class="modal-overlay hidden">
+  <div class="modal">
+    <div class="modal-head">
+      <h3 id="modalTitle">Topic</h3>
+      <button id="modalClose" class="icon-btn">✕</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<script src="data/syllabus.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

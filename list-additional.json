@@ -1,0 +1,330 @@
+{
+  "exam": "UPSC Civil Services Examination (CSE)",
+  "type": "Static Syllabus Preparation Tracker Data",
+  "subjects": [
+    {
+      "subject_id": "polity",
+      "subject_name": "Polity",
+      "category": "GS Paper 2 & Prelims",
+      "topics": [
+        "Historical Background (Regulating Acts, Charter Acts, GOI Acts 1919/1935, Indian Independence Act 1947)",
+        "Making of the Constitution & Preamble",
+        "Union and Its Territory & Citizenship",
+        "Fundamental Rights (Articles 12-35)",
+        "Directive Principles of State Policy (DPSP)",
+        "Fundamental Duties (Article 51A)",
+        "Constitutional Amendment Process (Article 368) & Basic Structure Doctrine",
+        "Union Executive (President, Vice-President, Prime Minister, Council of Ministers, Attorney General)",
+        "Union Parliament (Lok Sabha, Rajya Sabha, Speaker, Committees, Legislative Procedures, Privileges)",
+        "State Executive (Governor, Chief Minister, State Council of Ministers, Advocate General)",
+        "State Legislature (Legislative Assembly, Legislative Council, Powers & Functions)",
+        "Judiciary (Supreme Court, High Courts, Subordinate Courts, Judicial Review, Judicial Activism, PIL, Tribunals)",
+        "Federal System, Centre-State Relations (Legislative, Administrative, Financial), Interstate Relations",
+        "Emergency Provisions (National, State/President's Rule, Financial Emergency)",
+        "Local Self-Government (Panchayati Raj - 73rd Amendment, Urban Local Bodies - 74th Amendment)",
+        "Constitutional Bodies (ECI, UPSC, SPSC, Finance Commission, NCSC, NCST, NCBC, CAG, Special Officer for Linguistic Minorities)",
+        "Non-Constitutional & Statutory Bodies (NITI Aayog, NHRC, SHRC, CIC, SIC, CVC, CBI, Lokpal & Lokayuktas, NIA, NDMA)",
+        "Representation of the People Act (RPA 1950 & 1951)",
+        "Electoral Reforms & Political Dynamics (Anti-Defection Law, Delimitation, Political Funding)"
+      ]
+    },
+    {
+      "subject_id": "governance",
+      "subject_name": "Governance",
+      "category": "GS Paper 2",
+      "topics": [
+        "Government Policies and Interventions for Development in various sectors",
+        "Development Processes and the Development Industry (Role of NGOs, SHGs, Donor Groups, Charities)",
+        "Statutory, Regulatory, and Quasi-judicial Bodies",
+        "Citizen Charters, Transparency, Accountability, and Institutional Oversight",
+        "E-Governance: Applications, Models, Successes, Limitations, and Potential",
+        "Role of Civil Services in a Democracy",
+        "Right to Information (RTI) Act & Public Service Delivery Frameworks",
+        "Good Governance Frameworks & Administrative Reforms Commission (ARC) Recommendations"
+      ]
+    },
+    {
+      "subject_id": "ancient_history",
+      "subject_name": "Ancient History",
+      "category": "GS Paper 1 & Prelims",
+      "topics": [
+        "Prehistoric Period (Paleolithic, Mesolithic, Neolithic, Chalcolithic)",
+        "Indus Valley Civilization (Sites, Town Planning, Society, Economy, Religion, Trade, Decline)",
+        "Vedic Age (Early & Later Vedic Literature, Society, Polity, Economy, Religion)",
+        "Mahajanapadas, Rise of Magadha, Foreign Invasions (Persian & Macedonian)",
+        "Buddhism, Jainism, Ajivikas, and Charvaka Philosophies",
+        "Mauryan Empire (Chandragupta, Ashoka's Dhamma, Administration, Economy, Edicts, Fall)",
+        "Post-Mauryan Period (Sungas, Kanvas, Indo-Greeks, Shakas, Kushanas, Satavahanas)",
+        "Sangam Age (Literature, Society, Polity, Economy, Dynasties - Cheras, Cholas, Pandyas)",
+        "Gupta Empire (Rulers, Administration, Agrarian Structure, Science, Literature, Temple Architecture)",
+        "Post-Gupta Period (Harshavardhana, Vakatakas, Chalukyas of Badami, Pallavas)"
+      ]
+    },
+    {
+      "subject_id": "medieval_history",
+      "subject_name": "Medieval History",
+      "category": "GS Paper 1 & Prelims",
+      "topics": [
+        "Tripartite Struggle (Palas, Gurjara-Pratiharas, Rashtrakutas)",
+        "Imperial Cholas (Administration, Local Self-Government, Maritime Trade, Art & Architecture)",
+        "Delhi Sultanate (Slave, Khilji, Tughlaq, Sayyid, Lodi - Administration, Revenue, Architecture)",
+        "Vijayanagara & Bahmani Kingdoms (Rulers, Foreign Travelers, Architecture, Administration)",
+        "Bhakti & Sufi Movements (Major Saints, Philosophies, Social & Cultural Impact)",
+        "Mughal Empire (Babur to Aurangzeb - Revenue Systems, Mansabdari/Jagirdari, Architecture, Decline)",
+        "Maratha Empire & Confederacy (Shivaji's Administration, Ashtapradhan, Peshwa Era)",
+        "Regional Kingdoms (Sikh Empire, Rajputs, Nawabs of Bengal, Awadh, Nizam of Hyderabad)"
+      ]
+    },
+    {
+      "subject_id": "modern_history",
+      "subject_name": "Modern History",
+      "category": "GS Paper 1 & Prelims",
+      "topics": [
+        "Advent of European Powers & British Expansion (Plassey, Buxar, Anglo-Mysore, Anglo-Maratha, Anglo-Sikh Wars)",
+        "British Land Revenue Systems (Permanent Settlement, Ryotwari, Mahalwari) & Economic Exploitation",
+        "Early Resistance (Tribal Rebellions, Peasant Uprisings, Civil Rebellions)",
+        "Revolt of 1857 (Causes, Centres, Leaders, Nature, Suppression, Administrative Changes)",
+        "Socio-Religious Reform Movements (Brahmo Samaj, Arya Samaj, Aligarh Movement, Dalit & Temple Entry Movements)",
+        "Growth of Early Nationalism & Indian National Congress (Moderate vs Extremist Phases, Swadeshi Movement)",
+        "Revolutionary Nationalism (Phase I & II - HSRA, Bengal Revolutionaries, INA)",
+        "Gandhian Era (Champaran, Kheda, Rowlatt, Non-Cooperation, Khilafat, Civil Disobedience, Quit India)",
+        "Constitutional Developments under British Rule (1858 Act, Indian Councils Acts, 1909, 1919, 1935 Acts)",
+        "Communalism, Partition, and Transfer of Power (August Offer, Cripps, Cabinet Mission, Mountbatten Plan, 1947 Act)"
+      ]
+    },
+    {
+      "subject_id": "post_independence_history",
+      "subject_name": "Post-Independence History",
+      "category": "GS Paper 1",
+      "topics": [
+        "Consolidation & Integration of Princely States (Role of Sardar Patel, Junagadh, Hyderabad, Kashmir)",
+        "Linguistic Reorganisation of States & State Reorganisation Act 1956",
+        "Foreign Policy Formulation (Non-Aligned Movement, Indo-China 1962, Indo-Pak Wars 1965, 1971, 1999)",
+        "Land Reforms, Agrarian Restructuring, and the Green Revolution",
+        "Emergency Era (1975-1977), Democratic Restoration, and Political Realignment",
+        "Tribal Integration, Ethnic Rebellions, and Regional Movements (North-East, Punjab, Naxalism)"
+      ]
+    },
+    {
+      "subject_id": "world_history",
+      "subject_name": "World History",
+      "category": "GS Paper 1",
+      "topics": [
+        "Industrial Revolution & Emergence of Capitalism",
+        "American Revolution & French Revolution",
+        "Nationalism & Unification of Italy and Germany",
+        "Imperialism, Colonialism, and Decolonisation (Asia, Africa, Latin America)",
+        "World War I (Causes, Course, Treaty of Versailles, League of Nations)",
+        "Interwar Period (Rise of Nazism, Fascism, Great Depression)",
+        "World War II (Causes, Holocaust, UN Creation, Geopolitical Consequences)",
+        "Cold War Era (Non-Aligned Movement, Proxy Wars, Korean/Vietnam Wars, Collapse of USSR)",
+        "Political Philosophies (Capitalism, Socialism, Communism, Fascism)"
+      ]
+    },
+    {
+      "subject_id": "art_and_culture",
+      "subject_name": "Art and Culture",
+      "category": "GS Paper 1 & Prelims",
+      "topics": [
+        "Indian Architecture (Harappan, Mauryan, Cave Architecture, Stupas, Temple Styles - Nagara, Dravida, Vesara, Indo-Islamic, Colonial)",
+        "Indian Sculptures, Terracotta, and Bronzes (Gandhara, Mathura, Amravati, Chola Bronzes)",
+        "Indian Paintings (Prehistoric Rock Art, Ajanta/Ellora Murals, Miniature Schools - Mughal, Rajput, Pahari, Tanjore)",
+        "Performing Arts (Classical Dance Forms, Folk Dances, Hindustani & Carnatic Music, Folk Theatre, Puppetry)",
+        "Indian Literature (Vedic, Epics, Buddhist, Jain, Sangam, Classical Sanskrit, Medieval & Bhakti Literature)",
+        "Indian Schools of Philosophy (Six Orthodox/Shaddarsana, Unorthodox Schools)",
+        "Handicrafts, Fairs, Festivals, Coinage, and UNESCO Intangible Cultural Heritage & World Heritage Sites"
+      ]
+    },
+    {
+      "subject_id": "geography",
+      "subject_name": "Geography of India and World",
+      "category": "GS Paper 1 & Prelims",
+      "topics": [
+        "Geomorphology (Interior of Earth, Continental Drift, Plate Tectonics, Earthquakes, Volcanoes, Landforms)",
+        "Climatology (Atmospheric Structure, Heat Budget, Pressure Belts, Winds, Air Masses, Cyclones, World Climate Zones)",
+        "Oceanography (Ocean Relief, Temperature, Salinity, Tides, Currents, Coral Reefs, Marine Resources)",
+        "Physical Geography of India (Physiography - Himalayas, Plains, Peninsular Plateau, Coasts, Islands; River Systems)",
+        "Indian Climate & Monsoon (Monsoon Mechanism, El Niño, La Niña, IOD, Western Disturbances, Rainfall Distribution)",
+        "Soils & Vegetation of India (Soil Types, Degradation, Natural Vegetation, Forest Cover)",
+        "Economic Geography (Distribution of Key Natural Resources: Minerals, Energy, Water)",
+        "Human Geography (Population Growth, Density, Distribution, Migration Patterns, Urbanisation & Slums)",
+        "Industrial Location Factors (Primary, Secondary, Tertiary Sectors globally and in India)"
+      ]
+    },
+    {
+      "subject_id": "economics",
+      "subject_name": "Economics",
+      "category": "GS Paper 3 & Prelims",
+      "topics": [
+        "National Income Accounting (GDP, GNP, NDP, NNP, Nominal vs Real, Inflation Indices - CPI, WPI, IIP)",
+        "Money & Banking (RBI Monetary Policy Tools, CRR, SLR, Repo Rate, NPA Management, IBC, Digital Banking)",
+        "Fiscal Policy & Public Finance (Union Budget, Revenue/Capital Accounts, Deficits, Direct/Indirect Taxes, GST, Finance Commission)",
+        "Financial Markets (Money Market, Capital Market, SEBI, Stock Exchanges, Bonds, Government Securities)",
+        "Agriculture & Food Security (Cropping Patterns, MSP, Buffer Stocks, PDS, Agri Subsidies, Land Reforms, Agri-Tech)",
+        "Planning, Growth & Development (Planning Commission to NITI Aayog, Poverty & Inequality Metrics, Sustainable Development)",
+        "External Sector (Balance of Payments, Forex Reserves, Exchange Rate Regimes, FDI, FPI, Foreign Trade Policy, WTO, IMF, World Bank)",
+        "Infrastructure & Industry (Energy, Roads, Railways, Ports, Aviation, Industrial Policy, Startups)"
+      ]
+    },
+    {
+      "subject_id": "science_and_tech",
+      "subject_name": "Science and Technology",
+      "category": "GS Paper 3 & Prelims",
+      "topics": [
+        "Space Technology (ISRO Missions, Launch Vehicles - PSLV, GSLV, SSLV, Orbits, NavIC, Deep Space Exploration)",
+        "Defence Technology (Missile Systems, Submarines, Aircraft Carriers, Drones, Directed Energy Weapons)",
+        "Nuclear Science & Tech (Fission vs Fusion, Three-Stage Power Programme, Radioactive Waste, BARC)",
+        "Information Technology & Electronics (AI, Machine Learning, Quantum Computing, Blockchain, 5G/6G, IoT, Cybersecurity)",
+        "Biotechnology & Genetics (Recombinant DNA, Gene Editing - CRISPR-Cas9, Stem Cells, Cloning, Bio-Safety)",
+        "Nanotechnology & Advanced Materials (Applications, Semiconductors, Superconductors, Rare Earths)",
+        "Intellectual Property Rights (IPR) & Technology Transfer Issues"
+      ]
+    },
+    {
+      "subject_id": "biology",
+      "subject_name": "Biology (General Science)",
+      "category": "Prelims & GS Paper 3 Base",
+      "topics": [
+        "Cell Structure, Functions, Organelles, Cell Division (Mitosis, Meiosis)",
+        "Human Physiology (Digestive, Respiratory, Circulatory, Excretory, Nervous, Endocrine Systems)",
+        "Genetics & Heredity (DNA, RNA, Genetic Mutations, Inherited Disorders)",
+        "Human Diseases & Public Health (Bacterial, Viral, Fungal, Protozoan Diseases, Vector-Borne, Non-Communicable)",
+        "Immunology & Vaccines (Active/Passive Immunity, Vaccine Platforms - mRNA, Viral Vector, Inactivated)",
+        "Nutrition & Deficiency Diseases (Vitamins, Minerals, Proteins, Balanced Diet)",
+        "Plant Biology & Photosynthesis (Plant Physiology, Hormones, Transport, Plant Diseases)"
+      ]
+    },
+    {
+      "subject_id": "environment",
+      "subject_name": "Environment & Ecology",
+      "category": "GS Paper 3 & Prelims",
+      "topics": [
+        "Ecology & Ecosystem Dynamics (Ecosystem Components, Food Chains/Webs, Ecological Pyramids, Biogeochemical Cycles, Succession)",
+        "Biodiversity & Conservation (Levels, Hotspots, IUCN Red List, National Parks, Sanctuaries, Biosphere Reserves, Ramsar Sites)",
+        "Environmental Protection Laws & Bodies (Wildlife Protection Act 1972, Biodiversity Act 2002, Forest Rights Act 2006, CPCB, NGT)",
+        "Climate Change & Global Warming (Greenhouse Effect, Ozone Layer, IPCC, UNFCCC, Paris Agreement, COP Summits, Net Zero)",
+        "Environmental Pollution & Waste Management (Air, Water, Soil, Noise, E-waste, Solid/Hazardous Waste, Plastic Pollution)",
+        "Environmental Impact Assessment (EIA framework, Environmental Governance & Sustainable Development)"
+      ]
+    },
+    {
+      "subject_id": "society",
+      "subject_name": "Indian Society",
+      "category": "GS Paper 1",
+      "topics": [
+        "Salient Features of Indian Society (Diversity, Pluralism, Unity in Diversity, Caste System)",
+        "Role of Women and Women's Organisations (Gender Parity, Empowerment, Violence against Women, Laws)",
+        "Population and Associated Issues (Demographic Dividend, Ageing, Urbanisation Challenges, Slums)",
+        "Poverty and Developmental Issues (Multidimensional Poverty, Social Exclusion, Vulnerability)",
+        "Effects of Globalisation on Indian Society (Cultural Impact, Family Structure, Youth, Rural Economy)",
+        "Social Empowerment, Communalism, Regionalism, and Secularism"
+      ]
+    },
+    {
+      "subject_id": "social_justice",
+      "subject_name": "Social Justice",
+      "category": "GS Paper 2",
+      "topics": [
+        "Welfare Schemes for Vulnerable Sections (SC/ST, OBCs, Minorities, Women, Children, Elderly, Divyangjan, Transgenders)",
+        "Performance and Implementation Mechanisms of Welfare Schemes",
+        "Issues Relating to Development and Management of Social Sector/Services (Health, Education, Human Resources)",
+        "Issues Relating to Poverty and Hunger (Global Hunger Index, National Food Security Act, Malnutrition)"
+      ]
+    },
+    {
+      "subject_id": "international_relations",
+      "subject_name": "International Relations",
+      "category": "GS Paper 2",
+      "topics": [
+        "India and Its Immediate & Extended Neighbourhood (Pakistan, China, Nepal, Bhutan, Bangladesh, Sri Lanka, Maldives, Myanmar)",
+        "Bilateral, Regional, and Global Groupings (QUAD, I2U2, BRICS, SCO, ASEAN, G20, BIMSTEC, SAARC, G7)",
+        "India's Relations with Major Powers (USA, Russia, European Union, Japan, Middle East)",
+        "International Multilateral Organisations & Reforms (UN, UNSC Reforms, WTO, IMF, World Bank, WHO, IAEA)",
+        "Indian Diaspora (Geopolitical Significance, Remittances, Government Initiatives)"
+      ]
+    },
+    {
+      "subject_id": "internal_security",
+      "subject_name": "Internal Security",
+      "category": "GS Paper 3",
+      "topics": [
+        "Linkages between Development and Spread of Extremism (Left-Wing Extremism / Naxalism)",
+        "Role of External State and Non-State Actors in Internal Security (Cross-Border Terrorism, Proxy War)",
+        "Border Management & Security Challenges (Indo-Pak, Indo-China, Indo-Myanmar, Indo-Bangladesh Borders, Maritime Security)",
+        "Cybersecurity & Communication Networks (Cyber Warfare, Social Media Misuse, Money Laundering, Fake News)",
+        "Security Forces and Their Mandates (CAPF, Assam Rifles, NSG, Intelligence Agencies - IB, R&AW, NIA)"
+      ]
+    },
+    {
+      "subject_id": "disaster_management",
+      "subject_name": "Disaster Management",
+      "category": "GS Paper 3",
+      "topics": [
+        "Types of Disasters (Natural: Floods, Earthquakes, Cyclones, Landslides, Droughts; Anthropogenic: Chemical, Biological, Radiological, Nuclear)",
+        "Disaster Management Framework in India (NDMA, SDMA, DDMA, NDRF, Disaster Management Act 2005)",
+        "Sendai Framework for Disaster Risk Reduction (2015-2030)",
+        "Disaster Mitigation, Preparedness, Early Warning Systems, and Community-Based Management"
+      ]
+    },
+    {
+      "subject_id": "ethics",
+      "subject_name": "Ethics, Integrity, and Aptitude",
+      "category": "GS Paper 4",
+      "topics": [
+        "Ethics and Human Interface (Essence, Determinants, Consequences of Ethics, Dimensions of Ethics, Public vs Private Ethics)",
+        "Human Values (Teachings of Great Leaders, Reformers, Administrators; Role of Family, Society, Educational Institutions)",
+        "Attitude (Content, Structure, Function, Influence on Thought & Behaviour, Moral & Political Attitudes, Persuasion)",
+        "Aptitude and Foundational Values for Civil Service (Integrity, Impartiality, Non-Partisanship, Objectivity, Empathy, Compassion)",
+        "Emotional Intelligence (Concepts, Utilities, Application in Administration and Governance)",
+        "Contributions of Moral Thinkers and Philosophers (Indian and Western Thinkers)",
+        "Public/Civil Service Values and Ethics in Public Administration (Dilemmas, Rules vs Conscience, Laws, Accountability)",
+        "Probity in Governance (Public Service Concept, Transparency, RTI, Codes of Conduct, Citizen's Charters, Anti-Corruption)",
+        "Case Studies on Ethical Issues and Administrative Dilemmas"
+      ]
+    },
+    {
+      "subject_id": "sociology_paper_1",
+      "subject_name": "Sociology Optional - Paper 1 (Fundamentals of Sociology)",
+      "category": "Optional Paper 1",
+      "topics": [
+        "Sociology - The Discipline: Modernity & Social Changes in Europe, Emergence of Sociology, Scope & Comparison with other Social Sciences, Sociology & Common Sense",
+        "Sociology as Science: Scientific Method, Positivism & Its Critique, Fact Value & Objectivity, Non-Positivist Methodologies",
+        "Research Methods & Analysis: Qualitative & Quantitative Methods, Data Collection Techniques, Sampling, Hypothesis, Reliability & Validity",
+        "Sociological Thinker - Karl Marx: Historical Materialism, Mode of Production, Alienation, Class Struggle",
+        "Sociological Thinker - Emile Durkheim: Division of Labour, Social Fact, Suicide, Religion and Society",
+        "Sociological Thinker - Max Weber: Social Action, Ideal Types, Authority, Bureaucracy, Protestant Ethic & Spirit of Capitalism",
+        "Sociological Thinker - Talcott Parsons: Social System, Pattern Variables",
+        "Sociological Thinker - Robert K. Merton: Latent and Manifest Functions, Conformity and Deviance, Reference Groups",
+        "Sociological Thinker - G.H. Mead: Self and Identity",
+        "Stratification and Mobility: Concepts (Equality, Hierarchy, Exclusion, Poverty), Theories (Structural-Functionalist, Marxist, Weberian), Dimensions (Class, Status, Gender, Race), Social Mobility",
+        "Works and Economic Life: Social Organisation of Work in Slave, Feudal, Industrial Societies; Formal & Informal Work; Labour & Society",
+        "Politics and Society: Theories of Power, Power Elite, Bureaucracy, Pressure Groups, Political Parties, Nation, State, Citizenship, Civil Society, Social Movements",
+        "Religion and Society: Sociological Theories of Religion, Types of Religious Practices (Animism, Monism, Sects, Cults), Secularisation, Fundamentalism",
+        "Systems of Kinship: Family, Household, Marriage, Lineage & Descent, Patriarchy, Sexual Division of Labour, Contemporary Trends",
+        "Social Change in Modern Society: Theories of Social Change, Development & Dependency, Agents of Change, Science & Technology impact"
+      ]
+    },
+    {
+      "subject_id": "sociology_paper_2",
+      "subject_name": "Sociology Optional - Paper 2 (Indian Society: Structure and Change)",
+      "category": "Optional Paper 2",
+      "topics": [
+        "Perspectives on Indian Society: Indology (G.S. Ghurye), Structural Functionalism (M.N. Srinivas), Marxist Sociology (A.R. Desai)",
+        "Impact of Colonial Rule on Indian Society: Social Background of Indian Nationalism, Modernisation of Indian Tradition",
+        "Rural and Agrarian Social Structure: Caste System, Jajmani System, Agrarian Class Structure, Land Reforms",
+        "Caste System in India: Perspectives (Ghurye, Srinivas, Dumont, Ambedkar), Features, Untouchability, Changing Dynamics",
+        "Tribal Communities in India: Definitional Problems, Geographical Spread, Colonial Policies, Integration & Autonomy Issues",
+        "Social Classes in India: Agrarian, Industrial, and Middle Class Structure",
+        "Systems of Kinship in India: Lineage & Descent, Kinship Regions, Family & Marriage, Household Dimensions, Patriarchy",
+        "Religion and Society in India: Religious Communities, Problems of Religious Minorities, Communalism",
+        "Vision of Social Change in India: Constitution, Law, Planning, Mixed Economy",
+        "Rural and Agrarian Transformation: Community Development Programmes, Green Revolution, Changing Modes of Production, Rural Labour & Migration",
+        "Industrialisation and Urbanisation in India: Growth of Urban Settlements, Working Class, Informal Sector, Slums",
+        "Politics and Society in India: Nation, Democracy, Citizenship, Regionalism, Decentralisation of Power",
+        "Social Movements in Modern India: Peasant/Farmers Movements, Women's Movement, Backward Classes & Dalit Movements, Environmental Movements, Identity Movements",
+        "Population Dynamics: Size, Growth, Composition, Population Policy, Ageing, Sex Ratio, Reproductive Health",
+        "Challenges of Social Transformation: Displacement, Poverty, Inequality, Violence against Women, Caste Conflicts, Ethnic Violence"
+      ]
+    }
+  ]
+}

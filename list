@@ -1,0 +1,5608 @@
+# UPSC CSE 2027 — MASTER STATIC SYLLABUS TRACKER
+
+## TRACKER DESIGN RULES
+
+Use each lowest-level bullet as an independently trackable item.
+
+Suggested fields for the coding tracker:
+
+* `id`
+* `subject`
+* `paper`
+* `stage`
+* `topic`
+* `subtopic`
+* `status`
+* `revision_count`
+* `last_studied`
+* `next_revision`
+* `source`
+* `pyq_count`
+* `pyq_accuracy`
+* `mock_test_count`
+* `forgetting_register_count`
+* `confidence`
+
+Stage labels:
+
+* `PRELIMS`
+* `GS1`
+* `GS2`
+* `GS3`
+* `GS4`
+* `SOCIOLOGY_P1`
+* `SOCIOLOGY_P2`
+
+Treat current affairs as a separate dynamic layer linked to these static topics. Do not make “current affairs” itself a static topic.
+
+---
+
+# 1. POLITY
+
+## 1.1 Constitutional History and Making of the Constitution
+
+* Regulating Act, 1773
+* Pitt's India Act, 1784
+* Charter Acts
+* Government of India Acts, 1858, 1909, 1919, 1935
+* Indian Independence Act, 1947
+* Constituent Assembly
+* Composition of Constituent Assembly
+* Election and representation in Constituent Assembly
+* Objectives Resolution
+* Committees of Constituent Assembly
+* Constitutional debates
+* Sources of the Constitution
+* Salient features of the Constitution
+* Philosophy of the Constitution
+* Preamble
+* Sovereignty
+* Socialism
+* Secularism
+* Democracy
+* Republic
+* Justice
+* Liberty
+* Equality
+* Fraternity
+* Constitutionalism
+* Rule of law
+
+## 1.2 Constitutional Features
+
+* Written and detailed Constitution
+* Parliamentary system
+* Federal system with unitary bias
+* Single citizenship
+* Integrated judiciary
+* Independent constitutional bodies
+* Universal adult franchise
+* Emergency provisions
+* Amendment procedure
+* Constitutional supremacy
+* Judicial review
+* Judicial activism
+* Separation of powers
+* Checks and balances
+* Cooperative federalism
+* Competitive federalism
+
+## 1.3 Fundamental Rights
+
+* Concept of Fundamental Rights
+* Article 12
+* State definition
+* Article 13
+* Judicial review and laws inconsistent with Fundamental Rights
+* Right to Equality
+* Article 14
+* Reasonable classification
+* Arbitrariness
+* Articles 15 and 16
+* Reservation
+* Protective discrimination
+* Article 17
+* Abolition of untouchability
+* Article 18
+* Abolition of titles
+* Right to Freedom
+* Article 19 freedoms
+* Reasonable restrictions
+* Article 20
+* Article 21
+* Life and personal liberty
+* Due process / procedure established by law
+* Privacy
+* Right to education
+* Article 22
+* Preventive detention
+* Right against exploitation
+* Articles 23 and 24
+* Freedom of religion
+* Articles 25–28
+* Cultural and educational rights
+* Articles 29–30
+* Constitutional remedies
+* Article 32
+* Writs
+* Habeas corpus
+* Mandamus
+* Prohibition
+* Certiorari
+* Quo warranto
+* Rights of armed forces and exceptions
+* Rights during emergency
+* Suspension of Fundamental Rights
+* Fundamental Rights versus DPSPs
+* Fundamental Rights versus Fundamental Duties
+
+## 1.4 Directive Principles of State Policy
+
+* Origin and philosophy
+* Classification of DPSPs
+* Socialistic principles
+* Gandhian principles
+* Liberal-intellectual principles
+* Economic democracy
+* Welfare state
+* Uniform Civil Code
+* Organisation of village panchayats
+* Promotion of weaker sections
+* Public health
+* Environment
+* Separation of judiciary from executive
+* International peace
+* Amendments affecting DPSPs
+* FR-DPSP relationship
+
+## 1.5 Fundamental Duties
+
+* Origin
+* Article 51A
+* List of Fundamental Duties
+* Swaran Singh Committee
+* 42nd Amendment
+* 86th Amendment
+* Nature and enforceability
+* Fundamental Duties and Fundamental Rights
+* Fundamental Duties and citizenship
+
+## 1.6 Constitutional Amendments
+
+* Amendment procedure
+* Simple majority
+* Special majority
+* Special majority plus state ratification
+* Basic Structure Doctrine
+* Basic Structure elements
+* Important constitutional amendments
+* Major amendments affecting polity
+* Major amendments affecting local government
+* Major amendments affecting reservation
+* Major amendments affecting institutions
+
+## 1.7 Union Executive
+
+### President
+
+* Election
+* Qualifications
+* Oath
+* Term
+* Impeachment
+* Powers and functions
+* Executive powers
+* Legislative powers
+* Financial powers
+* Judicial powers
+* Emergency powers
+* Veto powers
+* Ordinance-making power
+* Pardoning power
+* President and parliamentary system
+
+### Vice-President
+
+* Election
+* Qualifications
+* Term
+* Removal
+* Powers
+* Role as Rajya Sabha Chairman
+
+### Prime Minister
+
+* Appointment
+* Powers
+* Position in parliamentary system
+* Relationship with President
+* Relationship with Council of Ministers
+* Role in Cabinet
+
+### Council of Ministers
+
+* Constitutional basis
+* Appointment
+* Collective responsibility
+* Individual responsibility
+* Cabinet
+* Cabinet committees
+* Ministerial responsibility
+* Kitchen Cabinet
+* Cabinet Secretariat
+
+### Attorney General
+
+* Appointment
+* Qualifications
+* Duties and powers
+* Limitations
+
+## 1.8 Parliament
+
+* Composition
+* Lok Sabha
+* Rajya Sabha
+* Sessions
+* Summoning
+* Prorogation
+* Dissolution
+* Parliamentary calendar
+* Presiding officers
+* Speaker
+* Deputy Speaker
+* Chairman
+* Deputy Chairman
+* Leader of House
+* Leader of Opposition
+* Parliamentary privileges
+* Parliamentary immunities
+* Legislative procedure
+* Ordinary bills
+* Money bills
+* Financial bills
+* Constitutional amendment bills
+* Private member bills
+* Joint sitting
+* Budget process
+* Demands for grants
+* Appropriation Bill
+* Finance Bill
+* Cut motions
+* Vote on account
+* Vote of credit
+* Supplementary grants
+* Excess grants
+* Token grants
+* Guillotine
+* Parliamentary committees
+* Standing committees
+* Ad hoc committees
+* PAC
+* Estimates Committee
+* Committee on Public Undertakings
+* Department-related standing committees
+* Committee on Privileges
+* Ethics Committee
+* Business Advisory Committee
+* Rules Committee
+* Questions
+* Question Hour
+* Zero Hour
+* Motions
+* Resolutions
+* No-confidence motion
+* Confidence motion
+* Censure motion
+* Adjournment motion
+* Calling Attention
+* Short Duration Discussion
+* Parliamentary control over executive
+* Anti-defection law
+* Tenth Schedule
+* Whip
+* Role and decline of Parliament
+* Disruptions and productivity
+
+## 1.9 State Executive
+
+* Governor
+* Appointment
+* Qualifications
+* Term
+* Removal
+* Powers
+* Discretionary powers
+* Ordinance power
+* Pardoning power
+* Governor-President relationship
+* Chief Minister
+* Council of Ministers
+* State Cabinet
+* Advocate General
+* State legislature
+* Legislative Assembly
+* Legislative Council
+* Composition
+* Powers
+* Legislative procedure
+* Financial procedure
+* State-level parliamentary committees
+* Governor's role in hung assembly
+* Governor and constitutional morality
+
+## 1.10 Judiciary
+
+* Integrated judicial system
+* Supreme Court
+* High Courts
+* Appointment of judges
+* Qualifications
+* Removal
+* Tenure
+* Jurisdiction
+* Original jurisdiction
+* Appellate jurisdiction
+* Advisory jurisdiction
+* Writ jurisdiction
+* Constitutional interpretation
+* Judicial review
+* Judicial activism
+* Judicial restraint
+* Public Interest Litigation
+* Judicial appointments
+* Collegium system
+* NJAC issue
+* Tribunal system
+* Subordinate judiciary
+* Lok Adalats
+* Alternative dispute resolution
+* E-courts
+* Judicial backlog
+* Judicial accountability
+* Contempt of court
+* Independence of judiciary
+* Separation of judiciary from executive
+
+## 1.11 Centre-State Relations
+
+* Legislative relations
+* Administrative relations
+* Financial relations
+* Inter-State Council
+* Finance Commission
+* GST Council
+* Zonal Councils
+* River water disputes
+* Interstate disputes
+* Governor's role
+* Article 356
+* President's Rule
+* Emergency and federalism
+* Cooperative federalism
+* Competitive federalism
+* Fiscal federalism
+* Devolution
+
+## 1.12 Local Government
+
+* Constitutional status
+* 73rd Amendment
+* 74th Amendment
+* Panchayats
+* Municipalities
+* Gram Sabha
+* Three-tier Panchayati Raj
+* Urban local bodies
+* Metropolitan planning committees
+* District planning committees
+* State Election Commissions
+* State Finance Commissions
+* Reservation in local bodies
+* Devolution of 3Fs
+* Local finances
+* Local accountability
+* Urban governance
+* Rural local governance
+* Capacity constraints
+* Democratic decentralisation
+
+## 1.13 Constitutional Bodies
+
+* Election Commission of India
+* UPSC
+* State Public Service Commissions
+* Finance Commission
+* CAG
+* Attorney General
+* Advocate General
+* National Commissions for SCs
+* National Commission for STs
+* National Commission for Backward Classes
+* Special Officer for Linguistic Minorities
+* GST Council
+* Inter-State Council
+
+## 1.14 Statutory / Regulatory / Quasi-Judicial Institutions
+
+* NHRC
+* SHRC
+* CIC
+* SIC
+* CVC
+* Lokpal
+* Lokayukta
+* NGT
+* TRAI
+* SEBI
+* RBI as regulator
+* Competition Commission
+* PFRDA
+* IRDAI
+* Other major regulatory bodies
+* Quasi-judicial institutions
+* Tribunal architecture
+
+## 1.15 Elections and Representation
+
+* Representation of People Act, 1950
+* Representation of People Act, 1951
+* Electoral rolls
+* Delimitation
+* Election process
+* Candidate qualifications
+* Disqualifications
+* Criminalisation of politics
+* Electoral offences
+* Election expenditure
+* Campaign finance
+* Electoral bonds and political funding architecture
+* Inner-party democracy
+* Model Code of Conduct
+* Anti-defection
+* Political parties
+* Independent candidates
+* NOTA
+* EVMs and VVPAT
+* Election petitions
+
+## 1.16 Constitutional / Governance Concepts
+
+* Rule of law
+* Constitutional morality
+* Constitutional culture
+* Democratic accountability
+* Separation of powers
+* Checks and balances
+* Parliamentary sovereignty versus constitutional supremacy
+* Federalism
+* Secularism
+* Social justice
+* Affirmative action
+* Representation
+* Citizenship
+
+---
+
+# 2. GOVERNANCE
+
+## 2.1 Governance Fundamentals
+
+* Governance
+* Good governance
+* Democratic governance
+* Participatory governance
+* Responsive governance
+* Accountable governance
+* Transparent governance
+* Inclusive governance
+* Effective governance
+* Efficient governance
+* Citizen-centric governance
+* Network governance
+* Collaborative governance
+
+## 2.2 Transparency
+
+* Transparency
+* Information disclosure
+* Right to Information
+* Proactive disclosure
+* Information commissions
+* Open government
+* Open data
+* Transparency mechanisms
+
+## 2.3 Accountability
+
+* Political accountability
+* Administrative accountability
+* Social accountability
+* Financial accountability
+* Judicial accountability
+* Legislative accountability
+* Social audit
+* Citizen oversight
+* Institutional accountability
+
+## 2.4 E-Governance
+
+* Meaning and evolution
+* Models of e-governance
+* Government-to-Citizen
+* Government-to-Business
+* Government-to-Government
+* Government-to-Employee
+* Digital public infrastructure
+* Digital identity
+* Digital service delivery
+* Digital inclusion
+* Interoperability
+* Data governance
+* Privacy
+* Cybersecurity
+* Challenges of e-governance
+* Digital divide
+
+## 2.5 Citizen-Centric Administration
+
+* Citizen Charter
+* Service guarantees
+* Grievance redressal
+* Citizen participation
+* Social audit
+* Public consultation
+* Community participation
+* Public service delivery
+* Service quality
+* Outcome-oriented governance
+
+## 2.6 NGOs / SHGs / Civil Society
+
+* NGOs
+* Civil society
+* SHGs
+* Community organisations
+* Cooperatives
+* Donor agencies
+* Charities
+* Voluntary organisations
+* Social enterprises
+* Public-private partnerships in development
+* Stakeholder participation
+
+## 2.7 Public Policy
+
+* Policy formulation
+* Policy implementation
+* Policy monitoring
+* Policy evaluation
+* Evidence-based policymaking
+* Policy design
+* Implementation gaps
+* Last-mile delivery
+* Outcome budgeting
+* Targeting
+* Direct benefit transfer
+* Leakage
+* Centre-State implementation
+
+## 2.8 Civil Services
+
+* Role of civil services
+* Political neutrality
+* Anonymity
+* Permanent executive
+* Generalist-specialist debate
+* Civil service reforms
+* Capacity building
+* Mission Karmayogi
+* Lateral entry
+* Performance management
+* Accountability
+* Administrative ethics
+* Citizen interface
+
+---
+
+# 3. ANCIENT HISTORY
+
+## 3.1 Prehistory
+
+* Palaeolithic
+* Mesolithic
+* Neolithic
+* Chalcolithic
+* Megalithic cultures
+* Prehistoric tools
+* Early agriculture
+* Domestication
+* Early settlements
+* Archaeological evidence
+
+## 3.2 Indus Valley Civilization
+
+* Origin
+* Extent
+* Major sites
+* Town planning
+* Drainage
+* Architecture
+* Agriculture
+* Crafts
+* Metallurgy
+* Trade
+* Weights and measures
+* Seals
+* Script
+* Religion
+* Burial practices
+* Society
+* Political organisation
+* Economy
+* Technology
+* Decline theories
+* Continuities
+
+## 3.3 Vedic Age
+
+* Early Vedic society
+* Later Vedic society
+* Political institutions
+* Sabha
+* Samiti
+* Economy
+* Agriculture
+* Cattle
+* Varna
+* Family
+* Religion
+* Rituals
+* Upanishadic transition
+* Iron technology
+* Expansion into Ganga valley
+
+## 3.4 Mahajanapadas
+
+* Sixteen Mahajanapadas
+* Rise of Magadha
+* Republics / Ganasanghas
+* Urbanisation
+* Second urbanisation
+* Economy
+* Coinage
+* Trade
+* Social changes
+
+## 3.5 Buddhism
+
+* Life of Buddha
+* Four Noble Truths
+* Eightfold Path
+* Middle Path
+* Buddhist councils
+* Hinayana / Theravada
+* Mahayana
+* Vajrayana
+* Buddhist literature
+* Buddhist philosophy
+* Spread of Buddhism
+* Patronage
+* Decline
+
+## 3.6 Jainism
+
+* Life of Mahavira
+* Tirthankaras
+* Jain philosophy
+* Triratna
+* Ahimsa
+* Anekantavada
+* Syadvada
+* Jain councils
+* Sects
+* Literature
+* Spread
+* Patronage
+* Decline
+
+## 3.7 Mauryan Empire
+
+* Chandragupta Maurya
+* Kautilya
+* Arthashastra
+* Ashoka
+* Kalinga War
+* Dhamma
+* Administration
+* Economy
+* Society
+* Art and architecture
+* Pillars
+* Stupas
+* Inscriptions
+* Decline
+
+## 3.8 Post-Mauryan India
+
+* Indo-Greeks
+* Shakas
+* Parthians
+* Kushanas
+* Kanishka
+* Satavahanas
+* Sangam age
+* Cholas
+* Cheras
+* Pandyas
+* Trade networks
+* Roman trade
+* Silk Route
+* Coinage
+* Religion
+* Art
+* Literature
+
+## 3.9 Gupta Age
+
+* Gupta rulers
+* Administration
+* Economy
+* Science
+* Mathematics
+* Astronomy
+* Medicine
+* Literature
+* Sanskrit
+* Art
+* Architecture
+* Religion
+* Society
+* Land grants
+* Decline
+
+## 3.10 Early Medieval India
+
+* Harshavardhana
+* Regional kingdoms
+* Pallavas
+* Chalukyas
+* Rashtrakutas
+* Palas
+* Pratiharas
+* Rajputs
+* Chola administration
+* Temple economy
+* Bhakti beginnings
+* Agrarian expansion
+* Land grants
+
+---
+
+# 4. MEDIEVAL HISTORY
+
+## 4.1 Early Medieval Political Developments
+
+* Regional kingdoms
+* Rajput states
+* Cholas
+* Pallavas
+* Chalukyas
+* Rashtrakutas
+* Palas
+* Pratiharas
+* Chola administration
+* Temple institutions
+
+## 4.2 Delhi Sultanate
+
+* Slave dynasty
+* Khaljis
+* Tughlaqs
+* Sayyids
+* Lodis
+* Administration
+* Iqta system
+* Revenue system
+* Military system
+* Market reforms
+* Architecture
+* Society
+* Economy
+* Cultural developments
+* Decline
+
+## 4.3 Vijayanagara
+
+* Foundation
+* Administration
+* Nayankara system
+* Economy
+* Agriculture
+* Trade
+* Religion
+* Architecture
+* Literature
+* Society
+* Decline
+
+## 4.4 Bahmani and Deccan States
+
+* Bahmani Sultanate
+* Deccan Sultanates
+* Administration
+* Culture
+* Architecture
+* Conflicts with Vijayanagara
+
+## 4.5 Mughal Empire
+
+* Babur
+* Humayun
+* Akbar
+* Jahangir
+* Shah Jahan
+* Aurangzeb
+* Mansabdari
+* Jagirdari
+* Zamindars
+* Revenue system
+* Zabt
+* Todar Mal
+* Military organisation
+* Court politics
+* Administration
+* Succession
+* Religious policy
+* Economy
+* Trade
+* Urbanisation
+* Society
+
+## 4.6 Mughal Decline
+
+* Weak successors
+* Jagirdari crisis
+* Regional powers
+* Marathas
+* Jats
+* Sikhs
+* Rajputs
+* Afghans
+* Nizam
+* Bengal
+* Awadh
+
+## 4.7 Marathas
+
+* Shivaji
+* Ashtapradhan
+* Administration
+* Chauth
+* Sardeshmukhi
+* Military organisation
+* Peshwas
+* Confederacy
+* Expansion
+* Decline
+
+## 4.8 Bhakti Movement
+
+* Origins
+* Major saints
+* Saguna tradition
+* Nirguna tradition
+* Regional traditions
+* Social impact
+* Religious impact
+* Literary contribution
+* Relationship with caste
+
+## 4.9 Sufi Movement
+
+* Sufi philosophy
+* Major orders
+* Chishti
+* Suhrawardi
+* Qadiri
+* Naqshbandi
+* Sufi institutions
+* Khanqahs
+* Social influence
+* Cultural synthesis
+
+## 4.10 Medieval Art and Culture
+
+* Indo-Islamic architecture
+* Sultanate architecture
+* Mughal architecture
+* Regional architecture
+* Temple architecture
+* Painting
+* Music
+* Literature
+* Languages
+* Persian influence
+* Indo-Persian culture
+
+---
+
+# 5. MODERN INDIAN HISTORY
+
+## 5.1 European Expansion
+
+* Portuguese
+* Dutch
+* English
+* French
+* Danish
+* Carnatic Wars
+* British supremacy
+
+## 5.2 British Territorial Expansion
+
+* Bengal
+* Battle of Plassey
+* Battle of Buxar
+* Subsidiary Alliance
+* Doctrine of Lapse
+* Anglo-Mysore Wars
+* Anglo-Maratha Wars
+* Anglo-Sikh Wars
+* Annexation policies
+* Paramountcy
+
+## 5.3 British Administration
+
+* Dual government
+* Regulating Act
+* Pitt's India Act
+* Charter Acts
+* Government of India Act 1858
+* Indian Councils Acts
+* Government of India Act 1909
+* Government of India Act 1919
+* Government of India Act 1935
+* Administrative institutions
+* Police
+* Judiciary
+* Civil services
+* Army
+
+## 5.4 Economic Impact of British Rule
+
+* Drain of wealth
+* Deindustrialisation
+* Commercialisation of agriculture
+* Land revenue systems
+* Permanent Settlement
+* Ryotwari
+* Mahalwari
+* Rural indebtedness
+* Famines
+* Infrastructure and railways
+* Colonial trade
+* Foreign capital
+* Plantation economy
+* Industrialisation
+* Colonial exploitation
+
+## 5.5 Social and Religious Reform
+
+* Bengal Renaissance
+* Raja Ram Mohan Roy
+* Brahmo Samaj
+* Arya Samaj
+* Prarthana Samaj
+* Ramakrishna Mission
+* Aligarh Movement
+* Singh Sabha
+* Theosophical Society
+* Satyashodhak Samaj
+* Reform of women
+* Widow remarriage
+* Sati
+* Child marriage
+* Education
+* Caste reform
+* Religious reform
+
+## 5.6 Revolt of 1857
+
+* Causes
+* Nature
+* Centres
+* Leaders
+* Course
+* Failure
+* Consequences
+* Historiographical interpretations
+
+## 5.7 Rise of Nationalism
+
+* Early political associations
+* Formation of INC
+* Moderates
+* Extremists
+* Surat Split
+* Swadeshi
+* Boycott
+* National education
+* Revolutionary nationalism
+
+## 5.8 Gandhian Era
+
+* Gandhi's South Africa experience
+* Champaran
+* Kheda
+* Ahmedabad Mill Strike
+* Rowlatt Satyagraha
+* Non-Cooperation
+* Khilafat
+* Civil Disobedience
+* Salt Satyagraha
+* Dandi March
+* Gandhi-Irwin Pact
+* Round Table Conferences
+* Quit India
+* Individual Satyagraha
+* Constructive programme
+
+## 5.9 Revolutionary Movements
+
+* Bengal revolutionaries
+* Punjab revolutionaries
+* Hindustan Republican Association
+* HSRA
+* Bhagat Singh
+* Chittagong movement
+* Ghadar movement
+* INA
+* Subhas Chandra Bose
+
+## 5.10 Constitutional Development and National Movement
+
+* Morley-Minto reforms
+* Montagu-Chelmsford reforms
+* Government of India Act 1935
+* Simon Commission
+* Nehru Report
+* Communal Award
+* Poona Pact
+* Cripps Mission
+* Cabinet Mission
+* Mountbatten Plan
+* Indian Independence Act
+
+## 5.11 Other National Movements
+
+* Home Rule Movement
+* Peasant movements
+* Tribal movements
+* Working-class movements
+* Women's participation
+* Dalit movements
+* Anti-caste movements
+* Regional movements
+
+## 5.12 Freedom Struggle Themes
+
+* Role of women
+* Role of students
+* Role of workers
+* Role of peasants
+* Role of tribals
+* Press and literature
+* National symbols
+* Underground movements
+* Contributions of different regions
+* Moderates versus extremists
+* Constitutional versus extra-constitutional methods
+* Mass mobilisation
+* Communal politics
+
+## 5.13 Partition and Independence
+
+* Two-nation theory
+* Muslim League
+* Communalism
+* Direct Action
+* Partition
+* Refugee crisis
+* Princely states
+* Integration
+
+---
+
+# 6. POST-INDEPENDENCE INDIA
+
+## 6.1 Political Consolidation
+
+* Integration of princely states
+* Instrument of Accession
+* Hyderabad
+* Junagadh
+* Kashmir
+* Goa
+* Other territories
+
+## 6.2 Reorganisation of States
+
+* Linguistic reorganisation
+* States Reorganisation Commission
+* Creation of states
+* Union Territories
+* Regional aspirations
+
+## 6.3 Constitutional Development
+
+* Early constitutional amendments
+* Centre-State relations
+* Emergency
+* Constitutional crises
+* Evolution of parliamentary democracy
+
+## 6.4 Political Developments
+
+* One-party dominance
+* Congress system
+* Rise of opposition
+* Coalition politics
+* Regional parties
+* Anti-defection
+* Emergency, 1975–77
+* Post-Emergency politics
+* Liberalisation-era politics
+* Rise of BJP
+* Coalition era
+
+## 6.5 Economic Development
+
+* Mixed economy
+* Planning
+* Planning Commission
+* Five-Year Plans
+* Public sector
+* Industrial policy
+* Green Revolution
+* Bank nationalisation
+* Poverty programmes
+* Rural development
+* 1991 reforms
+* Liberalisation
+* Privatisation
+* Globalisation
+
+## 6.6 Social Transformation
+
+* Land reforms
+* Green Revolution
+* Urbanisation
+* Industrialisation
+* Education expansion
+* Reservation policy
+* Mandal politics
+* Dalit politics
+* Women's movements
+* Tribal movements
+
+## 6.7 Foreign Policy
+
+* Non-alignment
+* Panchsheel
+* Neighbourhood policy
+* India-China
+* India-Pakistan
+* Bangladesh liberation
+* Nuclear policy
+* Indo-Soviet relations
+* Post-Cold War adjustments
+
+---
+
+# 7. WORLD HISTORY
+
+## 7.1 Enlightenment
+
+* Scientific Revolution
+* Renaissance legacy
+* Enlightenment thinkers
+* Liberalism
+* Nationalism
+* Republicanism
+* Secularism
+
+## 7.2 American Revolution
+
+* Causes
+* Course
+* Declaration of Independence
+* Constitution
+* Impact
+
+## 7.3 French Revolution
+
+* Causes
+* Estates
+* Enlightenment influence
+* Revolution
+* Jacobins
+* Reign of Terror
+* Napoleon
+* Impact on Europe
+* Nationalism
+
+## 7.4 Industrial Revolution
+
+* Causes
+* Technological changes
+* Factory system
+* Urbanisation
+* Capitalism
+* Working class
+* Social consequences
+* Imperialism
+* Industrialisation outside Britain
+
+## 7.5 Rise of Capitalism
+
+* Mercantilism
+* Industrial capitalism
+* Finance capitalism
+* Free trade
+* Colonial capitalism
+
+## 7.6 Rise of Socialism
+
+* Utopian socialism
+* Marxism
+* Marx and Engels
+* Class struggle
+* Historical materialism
+* Communist Manifesto
+* Socialist movements
+
+## 7.7 Nationalism
+
+* German unification
+* Italian unification
+* Nationalism in Europe
+* Imperial nationalism
+
+## 7.8 Imperialism and Colonialism
+
+* New imperialism
+* Africa
+* Asia
+* Scramble for Africa
+* Colonial administration
+* Economic motives
+* Social consequences
+* Anti-colonial resistance
+
+## 7.9 World War I
+
+* Causes
+* Alliance system
+* Nationalism
+* Imperialism
+* Course
+* Treaty of Versailles
+* League of Nations
+* Consequences
+
+## 7.10 Russian Revolution
+
+* Tsarism
+* 1905 Revolution
+* February Revolution
+* October Revolution
+* Bolsheviks
+* Lenin
+* Soviet system
+* Consequences
+
+## 7.11 Interwar Period
+
+* Great Depression
+* Fascism
+* Nazism
+* Totalitarianism
+* Appeasement
+* Rise of Hitler
+* Rise of Mussolini
+
+## 7.12 World War II
+
+* Causes
+* Course
+* Holocaust
+* Atomic bombs
+* United Nations
+* Consequences
+* Decolonisation
+
+## 7.13 Cold War
+
+* Origins
+* US-USSR rivalry
+* NATO
+* Warsaw Pact
+* Containment
+* Marshall Plan
+* Berlin
+* Cuban Missile Crisis
+* Proxy wars
+* Arms race
+* Nuclear deterrence
+* Space race
+* Détente
+* Collapse of USSR
+
+## 7.14 Decolonisation
+
+* Asian decolonisation
+* African decolonisation
+* National liberation movements
+* Post-colonial states
+* Neocolonialism
+
+## 7.15 Political Ideologies
+
+* Liberalism
+* Conservatism
+* Socialism
+* Communism
+* Fascism
+* Nazism
+* Nationalism
+* Feminism
+
+---
+
+# 8. GEOGRAPHY — INDIA
+
+## 8.1 Physical Geography of India
+
+* Physiographic divisions
+* Himalayas
+* Northern Plains
+* Peninsular Plateau
+* Indian Desert
+* Coastal Plains
+* Islands
+* Geological structure
+* Rock systems
+* Drainage systems
+
+## 8.2 Indian Climate
+
+* Monsoon mechanism
+* Factors controlling climate
+* Seasons
+* Western disturbances
+* Jet streams
+* El Niño
+* La Niña
+* Indian Ocean Dipole
+* Monsoon variability
+* Cyclones
+* Droughts
+* Floods
+
+## 8.3 Rivers and Drainage
+
+* Himalayan rivers
+* Peninsular rivers
+* River systems
+* Interlinking
+* River basins
+* Flood plains
+* Deltas
+* Estuaries
+* Inland drainage
+
+## 8.4 Soils
+
+* Soil types
+* Soil formation
+* Distribution
+* Characteristics
+* Soil erosion
+* Soil conservation
+* Land degradation
+
+## 8.5 Natural Vegetation
+
+* Forest types
+* Grasslands
+* Mangroves
+* Alpine vegetation
+* Forest distribution
+* Biodiversity regions
+
+## 8.6 Agriculture
+
+* Agricultural regions
+* Cropping patterns
+* Kharif
+* Rabi
+* Zaid
+* Major crops
+* Rice
+* Wheat
+* Millets
+* Pulses
+* Oilseeds
+* Cotton
+* Jute
+* Sugarcane
+* Tea
+* Coffee
+* Rubber
+* Spices
+* Plantation crops
+
+## 8.7 Irrigation
+
+* Surface irrigation
+* Canal irrigation
+* Wells
+* Tube wells
+* Drip
+* Sprinkler
+* Watershed management
+* Irrigation efficiency
+* Groundwater
+
+## 8.8 Mineral Resources
+
+* Coal
+* Iron ore
+* Manganese
+* Bauxite
+* Mica
+* Limestone
+* Copper
+* Gold
+* Critical minerals
+* Rare earth elements
+
+## 8.9 Energy Resources
+
+* Coal
+* Petroleum
+* Natural gas
+* Hydropower
+* Nuclear
+* Solar
+* Wind
+* Biomass
+* Geothermal
+* Tidal
+* Wave energy
+
+## 8.10 Industries
+
+* Iron and steel
+* Cotton textiles
+* Jute
+* Sugar
+* Cement
+* Petrochemicals
+* Automobile
+* Electronics
+* IT
+* Pharmaceuticals
+* Food processing
+* Industrial corridors
+* Industrial location factors
+* SEZs
+
+## 8.11 Transport
+
+* Roads
+* Railways
+* Inland waterways
+* Ports
+* Shipping
+* Civil aviation
+* Logistics
+* Freight corridors
+
+## 8.12 Population Geography
+
+* Population distribution
+* Density
+* Growth
+* Fertility
+* Mortality
+* Migration
+* Urbanisation
+* Demographic transition
+* Population policies
+
+## 8.13 Human Geography
+
+* Rural settlements
+* Urban settlements
+* Migration
+* Urban hierarchy
+* Urban sprawl
+* Regional development
+* Spatial inequality
+
+---
+
+# 9. GEOGRAPHY — WORLD
+
+## 9.1 Geomorphology
+
+* Interior of Earth
+* Rocks
+* Plate tectonics
+* Continental drift
+* Seafloor spreading
+* Isostasy
+* Earthquakes
+* Volcanoes
+* Folding
+* Faulting
+* Mountains
+* Plateaus
+* Plains
+* Weathering
+* Erosion
+* Fluvial landforms
+* Glacial landforms
+* Aeolian landforms
+* Karst landforms
+* Coastal landforms
+
+## 9.2 Climatology
+
+* Atmosphere
+* Temperature
+* Pressure belts
+* Winds
+* Planetary winds
+* Local winds
+* Jet streams
+* Air masses
+* Fronts
+* Cyclones
+* Anticyclones
+* Humidity
+* Clouds
+* Rainfall
+* Climate classification
+* ENSO
+* IOD
+* Madden-Julian Oscillation
+* Climate change
+
+## 9.3 Oceanography
+
+* Ocean relief
+* Ocean temperature
+* Salinity
+* Ocean currents
+* Waves
+* Tides
+* Coral reefs
+* Marine resources
+* Ocean circulation
+* El Niño
+* La Niña
+* Upwelling
+
+## 9.4 Biogeography
+
+* Biomes
+* Natural vegetation
+* Soils
+* Biodiversity distribution
+* Species distribution
+* Ecological zones
+
+## 9.5 Economic Geography
+
+* Resource distribution
+* Mineral distribution
+* Energy resources
+* Agriculture
+* Industrial location
+* Transport
+* Trade geography
+* Major industrial regions
+
+## 9.6 Important Geographical Phenomena
+
+* Earthquakes
+* Tsunamis
+* Volcanoes
+* Cyclones
+* Floods
+* Droughts
+* Landslides
+* Cloudbursts
+* Glacial lake outburst floods
+
+## 9.7 Map-Based Geography
+
+* Countries
+* Capitals
+* Seas
+* Gulfs
+* Straits
+* Passes
+* Rivers
+* Lakes
+* Mountains
+* Deserts
+* Islands
+* Important borders
+* Conflict regions
+* Strategic chokepoints
+* Resource regions
+
+---
+
+# 10. ECONOMICS
+
+## 10.1 Basic Economic Concepts
+
+* GDP
+* GVA
+* GNP
+* NNP
+* National income
+* Real versus nominal GDP
+* GDP deflator
+* Per capita income
+* Economic growth
+* Economic development
+* Business cycle
+* Inflation
+* Deflation
+* Stagflation
+* Recession
+* Depression
+
+## 10.2 Economic Growth and Development
+
+* Growth versus development
+* Human development
+* Inclusive growth
+* Sustainable development
+* Productivity
+* Structural transformation
+* Demographic dividend
+* Employment elasticity
+
+## 10.3 Planning
+
+* Planning in India
+* Five-Year Plans
+* Planning Commission
+* NITI Aayog
+* Indicative planning
+* Cooperative planning
+* Decentralised planning
+* Sustainable development planning
+
+## 10.4 Public Finance
+
+* Fiscal policy
+* Fiscal deficit
+* Revenue deficit
+* Primary deficit
+* Public debt
+* Public expenditure
+* Public revenue
+* Taxation
+* Direct taxes
+* Indirect taxes
+* GST
+* Tax buoyancy
+* Tax expenditure
+* Subsidies
+* Public borrowing
+
+## 10.5 Government Budget
+
+* Budget structure
+* Revenue receipts
+* Capital receipts
+* Revenue expenditure
+* Capital expenditure
+* Deficits
+* FRBM
+* Budget process
+* Fiscal responsibility
+* Off-budget borrowing
+* Gender budgeting
+* Outcome budgeting
+* Zero-based budgeting
+
+## 10.6 Monetary Policy
+
+* Money
+* Money supply
+* Monetary aggregates
+* Repo
+* Reverse repo
+* SDF
+* MSF
+* Bank Rate
+* CRR
+* SLR
+* Open Market Operations
+* Quantitative easing
+* Inflation targeting
+* Monetary Policy Committee
+* Transmission mechanism
+
+## 10.7 Banking
+
+* Commercial banks
+* Public sector banks
+* Private banks
+* Cooperative banks
+* Regional rural banks
+* Small finance banks
+* Payments banks
+* NBFCs
+* NPA
+* Basel norms
+* Capital adequacy
+* Priority sector lending
+* Financial inclusion
+* Banking reforms
+
+## 10.8 Financial Markets
+
+* Money market
+* Capital market
+* Equity
+* Bonds
+* Government securities
+* Treasury bills
+* Commercial paper
+* Certificates of deposit
+* Derivatives
+* Mutual funds
+* Pension funds
+* Insurance
+* Venture capital
+* REITs
+* InvITs
+* SEBI
+* IRDAI
+* PFRDA
+
+## 10.9 External Sector
+
+* Balance of Payments
+* Current account
+* Capital account
+* Trade balance
+* Exchange rates
+* Currency depreciation
+* Currency appreciation
+* Convertibility
+* Forex reserves
+* FDI
+* FPI
+* External debt
+* Remittances
+* Trade policy
+* WTO
+* IMF
+* World Bank
+* SDR
+
+## 10.10 Inflation
+
+* CPI
+* WPI
+* Core inflation
+* Food inflation
+* Demand-pull inflation
+* Cost-push inflation
+* Imported inflation
+* Inflation measurement
+* Inflation targeting
+
+## 10.11 Employment
+
+* Labour force
+* Worker population ratio
+* LFPR
+* Unemployment
+* Open unemployment
+* Disguised unemployment
+* Seasonal unemployment
+* Structural unemployment
+* Frictional unemployment
+* Gig economy
+* Informal employment
+* Labour codes
+* Skill development
+
+## 10.12 Poverty and Inclusion
+
+* Poverty measurement
+* Multidimensional poverty
+* Inequality
+* Inclusive growth
+* Financial inclusion
+* Social protection
+* DBT
+* JAM
+* Vulnerable groups
+
+## 10.13 Agriculture Economy
+
+* Farm economics
+* Land holdings
+* Productivity
+* Cropping patterns
+* Agricultural marketing
+* APMC
+* e-NAM
+* MSP
+* Procurement
+* Subsidies
+* Fertiliser subsidy
+* Credit
+* Crop insurance
+* PDS
+* Buffer stocks
+* Food security
+* Food processing
+* Supply chains
+* Animal husbandry
+* Fisheries
+* Dairy
+* Agricultural technology
+* Precision agriculture
+
+## 10.14 Industry
+
+* Industrial policy
+* MSMEs
+* Startups
+* Manufacturing
+* Industrial corridors
+* Make in India
+* PLI
+* Ease of doing business
+* Privatisation
+* Disinvestment
+* Liberalisation
+* Globalisation
+
+## 10.15 Infrastructure
+
+* Energy
+* Roads
+* Railways
+* Ports
+* Airports
+* Logistics
+* Urban infrastructure
+* Digital infrastructure
+* Water infrastructure
+* Investment models
+* PPP
+* BOT
+* BOOT
+* HAM
+* EPC
+
+## 10.16 Land Reforms
+
+* Zamindari abolition
+* Tenancy reforms
+* Land ceilings
+* Consolidation
+* Land records
+* Land titling
+* Agricultural land markets
+
+---
+
+# 11. SCIENCE & TECHNOLOGY
+
+## 11.1 General Science — Physics
+
+* Motion
+* Force
+* Work
+* Energy
+* Power
+* Gravitation
+* Pressure
+* Density
+* Heat
+* Thermodynamics basics
+* Waves
+* Sound
+* Light
+* Reflection
+* Refraction
+* Electricity
+* Current
+* Voltage
+* Resistance
+* Magnetism
+* Electromagnetism
+* Electromagnetic spectrum
+* Nuclear physics basics
+* Radiation
+* Radioactivity
+* Semiconductors
+* Transistors
+* Lasers
+* Fibre optics
+
+## 11.2 General Science — Chemistry
+
+* Matter
+* Atomic structure
+* Periodic table
+* Chemical bonding
+* Acids and bases
+* Salts
+* Oxidation and reduction
+* Chemical reactions
+* Metals
+* Non-metals
+* Organic chemistry basics
+* Hydrocarbons
+* Polymers
+* Fertilisers
+* Fuels
+* Catalysts
+* Corrosion
+* Batteries
+* Electrochemistry
+* Environmental chemistry
+* Nanomaterials
+
+## 11.3 Biology Foundations
+
+* Cell structure
+* Cell organelles
+* Cell division
+* Genetics
+* DNA
+* RNA
+* Protein synthesis
+* Mutation
+* Evolution
+* Human physiology
+* Human diseases
+* Immunity
+* Vaccines
+* Hormones
+* Nervous system
+* Endocrine system
+* Digestive system
+* Respiratory system
+* Circulatory system
+* Excretory system
+* Reproductive system
+* Vitamins
+* Nutrition
+* Microorganisms
+* Plants
+* Ecology interfaces
+
+## 11.4 Space Technology
+
+* Solar system
+* Stars
+* Galaxies
+* Black holes
+* Gravitational waves
+* Space missions
+* Launch vehicles
+* Satellites
+* Remote sensing
+* Communication satellites
+* Navigation systems
+* Earth observation
+* Space stations
+* Human spaceflight
+* Planetary exploration
+* Asteroid missions
+* Space debris
+* Space warfare
+* India's space programme
+* ISRO
+* Launch systems
+
+## 11.5 Biotechnology
+
+* Biotechnology fundamentals
+* Genetic engineering
+* Recombinant DNA
+* PCR
+* CRISPR
+* Gene editing
+* Gene therapy
+* Stem cells
+* Cloning
+* GM crops
+* Gene drives
+* Synthetic biology
+* Genomics
+* Proteomics
+* Bioinformatics
+* DNA sequencing
+* mRNA technology
+* Vaccines
+* Biopharmaceuticals
+* Biosimilars
+* Agricultural biotechnology
+* Industrial biotechnology
+* Environmental biotechnology
+* Biofuels
+
+## 11.6 Information Technology
+
+* Internet
+* Web
+* Cloud computing
+* Big data
+* Data science
+* Artificial intelligence
+* Machine learning
+* Deep learning
+* Generative AI
+* Natural language processing
+* Computer vision
+* Internet of Things
+* Edge computing
+* Blockchain
+* Distributed ledger
+* Digital twins
+* 5G
+* 6G
+* Quantum communication
+* Cybersecurity
+
+## 11.7 Semiconductor and Electronics
+
+* Semiconductor physics
+* Diodes
+* Transistors
+* Integrated circuits
+* Microprocessors
+* Microcontrollers
+* Semiconductor fabrication
+* Chip design
+* Foundries
+* Chip packaging
+* Advanced nodes
+* Compound semiconductors
+* Sensors
+* MEMS
+
+## 11.8 Quantum Technology
+
+* Quantum mechanics basics
+* Quantum computing
+* Qubits
+* Quantum algorithms
+* Quantum communication
+* Quantum cryptography
+* Quantum sensing
+* Quantum advantage
+
+## 11.9 Robotics
+
+* Industrial robotics
+* Autonomous systems
+* Drones
+* Unmanned systems
+* Humanoid robotics
+* Swarm robotics
+* Military robotics
+
+## 11.10 Nanotechnology
+
+* Nanomaterials
+* Nanoparticles
+* Nanomedicine
+* Nanoelectronics
+* Applications
+* Risks
+
+## 11.11 Nuclear Technology
+
+* Nuclear fission
+* Nuclear fusion
+* Nuclear reactors
+* Reactor types
+* Nuclear fuel cycle
+* Nuclear waste
+* Radiation
+* Nuclear safety
+* India's nuclear programme
+* Civil nuclear cooperation
+
+## 11.12 Defence Technology
+
+* Missiles
+* Ballistic missiles
+* Cruise missiles
+* Hypersonic systems
+* UAVs
+* Air defence
+* Radar
+* Electronic warfare
+* Directed-energy weapons
+* Cyber warfare
+* Space warfare
+* Naval technology
+
+## 11.13 Emerging Technologies
+
+* 3D printing
+* Advanced materials
+* Graphene
+* Biotechnology interfaces
+* Green hydrogen technology
+* Carbon capture
+* Battery technology
+* EV technology
+* Fuel cells
+* Fusion technology
+* Synthetic biology
+
+## 11.14 Intellectual Property
+
+* Patents
+* Copyright
+* Trademarks
+* Geographical indications
+* Trade secrets
+* Plant variety protection
+* Compulsory licensing
+* TRIPS
+* Technology transfer
+
+---
+
+# 12. BIOLOGY
+
+## 12.1 Cell Biology
+
+* Prokaryotic cells
+* Eukaryotic cells
+* Cell membrane
+* Nucleus
+* Mitochondria
+* Chloroplast
+* Ribosomes
+* Golgi apparatus
+* Endoplasmic reticulum
+* Lysosomes
+* Peroxisomes
+* Cytoskeleton
+* Cell division
+
+## 12.2 Genetics
+
+* Mendelian genetics
+* Dominant and recessive traits
+* Chromosomes
+* DNA
+* RNA
+* Genes
+* Mutation
+* Genetic disorders
+* Population genetics
+* Genetic engineering
+
+## 12.3 Evolution
+
+* Origin of life
+* Evolution
+* Natural selection
+* Genetic drift
+* Speciation
+* Adaptation
+* Evidences of evolution
+
+## 12.4 Human Physiology
+
+* Digestive system
+* Respiratory system
+* Circulatory system
+* Nervous system
+* Endocrine system
+* Excretory system
+* Musculoskeletal system
+* Reproductive system
+* Immune system
+* Homeostasis
+
+## 12.5 Health and Disease
+
+* Infectious diseases
+* Bacterial diseases
+* Viral diseases
+* Fungal diseases
+* Protozoan diseases
+* Zoonoses
+* Vector-borne diseases
+* Non-communicable diseases
+* Lifestyle diseases
+* Genetic diseases
+* Antimicrobial resistance
+* Immunity
+* Vaccination
+* Public health
+
+## 12.6 Nutrition
+
+* Macronutrients
+* Micronutrients
+* Vitamins
+* Minerals
+* Malnutrition
+* Deficiency diseases
+* Fortification
+* Nutrition security
+
+## 12.7 Plant Biology
+
+* Plant tissues
+* Photosynthesis
+* Respiration
+* Plant hormones
+* Reproduction
+* Pollination
+* Plant adaptations
+* Crop genetics
+* Plant diseases
+
+## 12.8 Microbiology
+
+* Bacteria
+* Viruses
+* Fungi
+* Protozoa
+* Algae
+* Archaea
+* Microbiome
+* Beneficial microbes
+* Pathogens
+
+## 12.9 Biotechnology-Biology Interface
+
+* Recombinant DNA
+* Gene editing
+* Stem cells
+* Cloning
+* Gene therapy
+* Vaccines
+* Diagnostic technologies
+* Genomics
+* Precision medicine
+
+---
+
+# 13. ENVIRONMENT
+
+## 13.1 Ecology Fundamentals
+
+* Ecology
+* Ecosystem
+* Biotic and abiotic components
+* Food chain
+* Food web
+* Ecological pyramids
+* Energy flow
+* Productivity
+* Nutrient cycles
+* Carbon cycle
+* Nitrogen cycle
+* Phosphorus cycle
+* Water cycle
+* Ecological succession
+* Ecological niches
+* Population ecology
+* Community ecology
+* Carrying capacity
+* Ecological balance
+
+## 13.2 Biomes
+
+* Tropical rainforest
+* Tropical deciduous
+* Grasslands
+* Deserts
+* Tundra
+* Taiga
+* Temperate forests
+* Mediterranean
+* Mountain ecosystems
+* Wetlands
+* Marine ecosystems
+
+## 13.3 Biodiversity
+
+* Genetic diversity
+* Species diversity
+* Ecosystem diversity
+* Biodiversity hotspots
+* Endemism
+* Keystone species
+* Indicator species
+* Flagship species
+* Umbrella species
+* Invasive species
+* Rare species
+* Threatened species
+
+## 13.4 Conservation
+
+* In-situ conservation
+* Ex-situ conservation
+* National parks
+* Wildlife sanctuaries
+* Conservation reserves
+* Community reserves
+* Biosphere reserves
+* Tiger reserves
+* Elephant reserves
+* Ramsar sites
+* Zoos
+* Botanical gardens
+* Seed banks
+* Gene banks
+* Wildlife corridors
+
+## 13.5 Indian Environmental Laws and Institutions
+
+* Environment Protection Act
+* Wildlife Protection Act
+* Forest Conservation framework
+* Biological Diversity Act/framework
+* Air Act
+* Water Act
+* National Green Tribunal
+* Central Pollution Control Board
+* State Pollution Control Boards
+* Forest institutions
+* Biodiversity authorities
+
+## 13.6 Pollution
+
+* Air pollution
+* Water pollution
+* Soil pollution
+* Marine pollution
+* Noise pollution
+* Thermal pollution
+* Radioactive pollution
+* Plastic pollution
+* E-waste
+* Biomedical waste
+* Solid waste
+* Hazardous waste
+* Waste management principles
+
+## 13.7 Climate Change
+
+* Greenhouse effect
+* Global warming
+* Greenhouse gases
+* Carbon cycle
+* Carbon sinks
+* Carbon budget
+* Climate sensitivity
+* Climate mitigation
+* Climate adaptation
+* Loss and damage
+* Climate finance
+* Carbon markets
+* Net zero
+* Carbon neutrality
+* Climate justice
+
+## 13.8 International Environmental Regimes
+
+* UNFCCC
+* Kyoto Protocol
+* Paris Agreement
+* Montreal Protocol
+* Convention on Biological Diversity
+* Cartagena Protocol
+* Nagoya Protocol
+* Ramsar Convention
+* CITES
+* CMS
+* UNCCD
+* Basel Convention
+* Rotterdam Convention
+* Stockholm Convention
+* Minamata Convention
+* Vienna Convention
+
+## 13.9 Environmental Impact and Assessment
+
+* Environmental Impact Assessment
+* Strategic Environmental Assessment
+* Environmental clearance
+* Social impact interface
+* Carrying capacity
+* Environmental audit
+* Cumulative impact
+
+## 13.10 Sustainable Development
+
+* Sustainable development
+* Sustainable Development Goals
+* Green economy
+* Circular economy
+* Resource efficiency
+* Sustainable consumption
+* Sustainable production
+* Ecosystem services
+* Nature-based solutions
+
+## 13.11 Renewable Energy and Environment
+
+* Solar
+* Wind
+* Hydropower
+* Biomass
+* Biofuels
+* Green hydrogen
+* Geothermal
+* Tidal
+* Wave energy
+* Energy storage
+* Electric mobility
+
+---
+
+# 14. SOCIETY — GS PAPER I
+
+## 14.1 Indian Society
+
+* Salient features of Indian society
+* Pluralism
+* Unity in diversity
+* Diversity
+* Continuity and change
+* Traditional institutions
+* Modernisation
+* Westernisation
+* Sanskritisation
+* Secularisation
+* Globalisation
+
+## 14.2 Diversity of India
+
+* Regional diversity
+* Linguistic diversity
+* Religious diversity
+* Ethnic diversity
+* Tribal diversity
+* Caste diversity
+* Cultural diversity
+* Rural-urban diversity
+
+## 14.3 Caste
+
+* Caste structure
+* Caste identity
+* Varna
+* Jati
+* Untouchability
+* Caste mobility
+* Sanskritisation
+* Dominant caste
+* Caste politics
+* Caste associations
+* Caste conflict
+* Reservation
+
+## 14.4 Tribe
+
+* Tribal communities
+* Tribal identity
+* Tribal autonomy
+* Tribal integration
+* Tribal displacement
+* Tribal development
+
+## 14.5 Family and Marriage
+
+* Family types
+* Marriage
+* Kinship
+* Household
+* Patriarchy
+* Changing family
+* Inter-generational change
+* Domestic division of labour
+
+## 14.6 Women
+
+* Status of women
+* Women's education
+* Women's employment
+* Political participation
+* Representation
+* Women's organisations
+* Women's movements
+* Gender inequality
+* Gender discrimination
+* Violence against women
+* Reproductive rights
+* Property rights
+* Care economy
+* Unpaid work
+* Feminisation of work
+
+## 14.7 Population
+
+* Population growth
+* Fertility
+* Mortality
+* Migration
+* Ageing
+* Sex ratio
+* Child population
+* Demographic dividend
+* Population policy
+* Family planning
+
+## 14.8 Poverty and Development
+
+* Poverty
+* Inequality
+* Exclusion
+* Deprivation
+* Multidimensional poverty
+* Development
+* Human development
+* Regional disparities
+
+## 14.9 Urbanisation
+
+* Urban growth
+* Urbanisation
+* Urban sprawl
+* Slums
+* Housing
+* Sanitation
+* Transport
+* Urban poverty
+* Informal sector
+* Smart cities
+* Urban governance
+
+## 14.10 Globalisation and Society
+
+* Cultural globalisation
+* Economic globalisation
+* Social consequences
+* Labour
+* Consumerism
+* Family change
+* Youth
+* Identity
+* Homogenisation
+* Hybridisation
+
+## 14.11 Social Empowerment
+
+* Empowerment
+* Inclusion
+* Representation
+* Capacity building
+* Political empowerment
+* Economic empowerment
+* Digital empowerment
+
+## 14.12 Communalism
+
+* Nature
+* Causes
+* Forms
+* Communal politics
+* Communal violence
+* Communal harmony
+* Secularism
+
+## 14.13 Regionalism
+
+* Regional identity
+* Regional disparities
+* Regional movements
+* Sub-nationalism
+* Interstate issues
+* Autonomy movements
+* Linguistic regionalism
+
+## 14.14 Secularism
+
+* Indian secularism
+* Western secularism
+* Religion-state relations
+* Religious freedom
+* Communalism
+* Secularisation
+
+---
+
+# 15. SOCIAL JUSTICE
+
+## 15.1 Vulnerable Sections
+
+* Women
+* Children
+* Senior citizens
+* Persons with disabilities
+* SCs
+* STs
+* OBCs
+* Minorities
+* Transgender persons
+* Migrants
+* Poor
+* Homeless
+* Informal workers
+* Tribal communities
+
+## 15.2 Welfare State
+
+* Social protection
+* Social security
+* Welfare schemes
+* Redistribution
+* Targeting
+* Universalisation
+* Direct benefit transfer
+* Food security
+* Basic services
+
+## 15.3 Health
+
+* Public health
+* Primary healthcare
+* Universal health coverage
+* Health infrastructure
+* Health financing
+* Public-private health
+* Maternal health
+* Child health
+* Nutrition
+* Mental health
+* Communicable diseases
+* Non-communicable diseases
+* Health insurance
+* Digital health
+
+## 15.4 Education
+
+* Universal education
+* School education
+* Higher education
+* Vocational education
+* Skill development
+* Digital education
+* Learning outcomes
+* Dropouts
+* Teacher quality
+* Higher education governance
+* Research and innovation
+* Educational inequality
+
+## 15.5 Human Resources
+
+* Human capital
+* Skills
+* Employability
+* Workforce quality
+* Demographic dividend
+* Labour participation
+
+## 15.6 Poverty and Hunger
+
+* Poverty
+* Hunger
+* Malnutrition
+* Food security
+* PDS
+* ICDS
+* Mid-day meals / school meals
+* Social protection
+* Employment programmes
+
+## 15.7 Social Protection and Rights
+
+* Rights-based welfare
+* Legal safeguards
+* Constitutional safeguards
+* Social security
+* Labour protections
+* Child protection
+* Disability rights
+* Senior citizen protection
+* Minority rights
+
+## 15.8 Development Administration
+
+* Implementation
+* Delivery gaps
+* Leakage
+* Exclusion
+* Last-mile delivery
+* Community participation
+* Social audit
+* Outcome measurement
+
+---
+
+# 16. INTERNATIONAL RELATIONS
+
+## 16.1 India's Neighbourhood
+
+* Pakistan
+* China
+* Nepal
+* Bhutan
+* Bangladesh
+* Myanmar
+* Sri Lanka
+* Maldives
+* Afghanistan
+* Indian Ocean neighbourhood
+
+For each:
+
+* Political relations
+* Economic relations
+* Security relations
+* Border issues
+* Water issues
+* Connectivity
+* Trade
+* Diaspora
+* Cultural relations
+
+## 16.2 Major Powers
+
+* United States
+* Russia
+* European Union
+* France
+* Germany
+* Japan
+* Australia
+* UK
+
+For each:
+
+* Strategic relations
+* Defence cooperation
+* Trade
+* Technology
+* Energy
+* Diplomacy
+* Multilateral cooperation
+
+## 16.3 Groupings
+
+* UN
+* G20
+* G7
+* BRICS
+* SCO
+* QUAD
+* ASEAN
+* BIMSTEC
+* SAARC
+* IORA
+* Commonwealth
+* East Asia Summit
+* Indo-Pacific frameworks
+
+## 16.4 International Institutions
+
+* United Nations
+* UNSC
+* UNGA
+* ICJ
+* WTO
+* IMF
+* World Bank
+* WHO
+* UNESCO
+* ILO
+* FAO
+* UNDP
+* UNHCR
+* UNICEF
+* International financial institutions
+
+## 16.5 International Law
+
+* Sovereignty
+* Territorial integrity
+* Intervention
+* Use of force
+* Humanitarian intervention
+* International humanitarian law
+* Refugee law
+* Maritime law
+* UNCLOS
+* Diplomatic law
+
+## 16.6 India's Diaspora
+
+* Indian diaspora
+* Remittances
+* Soft power
+* Diaspora diplomacy
+* Consular issues
+* Overseas Indian communities
+
+## 16.7 Global Geopolitical Issues
+
+* Great power rivalry
+* Multipolarity
+* Globalisation
+* Decoupling
+* Supply chains
+* Energy security
+* Food security
+* Maritime security
+* Indo-Pacific
+* Global South
+* International terrorism
+* Nuclear order
+* Climate diplomacy
+
+---
+
+# 17. DISASTER MANAGEMENT
+
+## 17.1 Disaster Concepts
+
+* Hazard
+* Vulnerability
+* Risk
+* Exposure
+* Disaster
+* Resilience
+* Capacity
+* Mitigation
+* Preparedness
+* Response
+* Recovery
+* Reconstruction
+
+## 17.2 Natural Disasters
+
+* Earthquakes
+* Tsunami
+* Cyclones
+* Floods
+* Flash floods
+* Landslides
+* Avalanches
+* Drought
+* Heatwaves
+* Cold waves
+* Cloudbursts
+* Lightning
+* Glacial lake outburst floods
+* Forest fires
+
+## 17.3 Biological / Human-Induced Disasters
+
+* Epidemics
+* Pandemics
+* Industrial accidents
+* Chemical disasters
+* Nuclear/radiological disasters
+* Oil spills
+* Urban fires
+* Stampedes
+* Infrastructure failures
+
+## 17.4 Disaster Management Institutions
+
+* NDMA
+* SDMA
+* DDMA
+* NDRF
+* State disaster forces
+* Disaster management authorities
+* Incident Response System
+
+## 17.5 Disaster Management Framework
+
+* Disaster Management Act
+* National Disaster Management Plan
+* Sendai Framework
+* International cooperation
+* Early warning systems
+* Risk mapping
+* Community-based disaster management
+
+## 17.6 Disaster Risk Reduction
+
+* Structural mitigation
+* Non-structural mitigation
+* Building codes
+* Land-use planning
+* Insurance
+* Resilient infrastructure
+* Climate-resilient planning
+* Community preparedness
+
+## 17.7 Disaster Response
+
+* Search and rescue
+* Evacuation
+* Relief
+* Communication
+* Logistics
+* Medical response
+* Shelter
+* Rehabilitation
+* Reconstruction
+* Build Back Better
+
+---
+
+# 18. INTERNAL SECURITY
+
+## 18.1 Security Fundamentals
+
+* Internal security
+* National security
+* Human security
+* Traditional security
+* Non-traditional security
+* Security-development nexus
+
+## 18.2 Left-Wing Extremism
+
+* Naxalism
+* Causes
+* Spread
+* Socio-economic drivers
+* Insurgent strategy
+* State response
+* Development approach
+* Security approach
+
+## 18.3 Insurgency
+
+* Insurgency
+* Counter-insurgency
+* Northeast insurgencies
+* Kashmir militancy
+* Ethnic conflict
+* Separatism
+* Autonomy demands
+
+## 18.4 Terrorism
+
+* Terrorism
+* Radicalisation
+* Extremism
+* Terror financing
+* Recruitment
+* Lone-wolf terrorism
+* Counter-terrorism
+* Deradicalisation
+
+## 18.5 External and Non-State Actors
+
+* External state actors
+* Proxy warfare
+* Foreign intelligence agencies
+* Terrorist organisations
+* Criminal networks
+* NGOs / ideological networks where relevant
+* Transnational organisations
+
+## 18.6 Cybersecurity
+
+* Cybercrime
+* Cyberwarfare
+* Cyberterrorism
+* Cyber espionage
+* Critical information infrastructure
+* Ransomware
+* Phishing
+* Malware
+* Data breaches
+* Cyber resilience
+* CERT-In
+* Cybersecurity institutions
+* Data protection
+
+## 18.7 Social Media and Communication Security
+
+* Social media
+* Disinformation
+* Misinformation
+* Fake news
+* Deepfakes
+* Online radicalisation
+* Information warfare
+* Communication networks
+
+## 18.8 Money Laundering
+
+* Money laundering
+* Placement
+* Layering
+* Integration
+* Hawala
+* Terror financing
+* PMLA
+* Financial Intelligence Unit
+* Prevention mechanisms
+
+## 18.9 Organised Crime
+
+* Organised crime
+* Drug trafficking
+* Human trafficking
+* Arms trafficking
+* Counterfeit currency
+* Cybercrime
+* Mafia networks
+* Crime-terror nexus
+
+## 18.10 Border Security
+
+* Land borders
+* Maritime borders
+* Border management
+* Fencing
+* Border infrastructure
+* Smart borders
+* Illegal migration
+* Smuggling
+* Coastal security
+* Border disputes
+* Mountain borders
+* Riverine borders
+
+## 18.11 Security Forces and Agencies
+
+* Armed forces
+* CAPFs
+* CRPF
+* BSF
+* ITBP
+* SSB
+* CISF
+* Assam Rifles
+* NSG
+* State police
+* Intelligence Bureau
+* RAW
+* NIA
+* CBI
+* ED
+* FIU
+* DRDO / defence institutions
+* Roles and mandates
+
+---
+
+# 19. ETHICS, INTEGRITY AND APTITUDE
+
+## 19.1 Ethics and Human Interface
+
+* Ethics
+* Morality
+* Values
+* Human actions
+* Ethical reasoning
+* Determinants of ethics
+* Consequences of ethical action
+* Dimensions of ethics
+* Private ethics
+* Public ethics
+
+## 19.2 Human Values
+
+* Human values
+* Moral values
+* Constitutional values
+* Civic values
+* Family and values
+* Socialisation
+* Educational institutions and values
+* Role models
+* Great leaders
+* Reformers
+* Administrators
+
+## 19.3 Attitude
+
+* Meaning
+* Content
+* Structure
+* Functions
+* Formation
+* Change
+* Attitude-behaviour relationship
+* Thought-attitude relationship
+* Moral attitudes
+* Political attitudes
+* Social influence
+* Persuasion
+
+## 19.4 Aptitude
+
+* Aptitude
+* Civil service aptitude
+* Problem-solving aptitude
+* Administrative aptitude
+* Public service orientation
+* Leadership
+* Decision-making
+
+## 19.5 Foundational Civil Service Values
+
+* Integrity
+* Impartiality
+* Non-partisanship
+* Objectivity
+* Dedication to public service
+* Empathy
+* Tolerance
+* Compassion
+* Constitutional morality
+
+## 19.6 Emotional Intelligence
+
+* Meaning
+* Components
+* Self-awareness
+* Self-regulation
+* Motivation
+* Empathy
+* Social skills
+* Emotional intelligence in administration
+* Conflict management
+* Leadership
+
+## 19.7 Moral Thinkers and Philosophers
+
+### Indian
+
+* Buddha
+* Mahavira
+* Kautilya
+* Ashoka
+* Kabir
+* Guru Nanak
+* Swami Vivekananda
+* Raja Ram Mohan Roy
+* Dayanand Saraswati
+* Gandhi
+* Ambedkar
+* Tagore
+* Sri Aurobindo
+* Vinoba Bhave
+* APJ Abdul Kalam
+
+### Western / Global
+
+* Socrates
+* Plato
+* Aristotle
+* Epicurus
+* Augustine
+* Thomas Aquinas
+* Hobbes
+* Locke
+* Rousseau
+* Kant
+* Bentham
+* J.S. Mill
+* Hegel
+* Marx
+* Nietzsche
+* Rawls
+* Nozick
+* Hannah Arendt
+* Existentialist ethics
+* Utilitarianism
+* Deontology
+* Virtue ethics
+
+## 19.8 Public Service Ethics
+
+* Public service
+* Public interest
+* Ethical dilemmas
+* Conflict of interest
+* Professional ethics
+* Political-administrative relations
+* Neutrality
+* Anonymity
+* Responsiveness
+* Accountability
+* Whistleblowing
+* Ethical leadership
+
+## 19.9 Ethics in Governance
+
+* Ethics and law
+* Ethics and conscience
+* Rules and regulations
+* Accountability
+* Transparency
+* Ethical governance
+* Ethical decision-making
+* Institutional ethics
+* Administrative discretion
+* Ethical use of power
+
+## 19.10 Corporate Ethics
+
+* Corporate governance
+* Corporate social responsibility
+* Business ethics
+* Stakeholder theory
+* Fiduciary responsibility
+* Conflict of interest
+* Compliance
+* Ethical corporate conduct
+
+## 19.11 International Ethics
+
+* Ethical foreign policy
+* International funding
+* Humanitarian ethics
+* Global justice
+* Climate justice
+* Refugees
+* War ethics
+* Human rights
+
+## 19.12 Probity
+
+* Concept of probity
+* Public service
+* Transparency
+* RTI
+* Codes of Ethics
+* Codes of Conduct
+* Citizen Charter
+* Work culture
+* Service delivery
+* Public funds
+* Financial propriety
+* Corruption
+* Integrity systems
+* Vigilance
+* Social audit
+
+## 19.13 Ethical Case Study Themes
+
+* Conflict of interest
+* Political pressure
+* Corruption
+* Whistleblowing
+* Public safety
+* Resource allocation
+* Gender discrimination
+* Vulnerable groups
+* Law versus morality
+* Individual versus institutional interest
+* Confidentiality versus transparency
+* Loyalty versus integrity
+* Development versus environment
+* Compassion versus rules
+* Ethical leadership
+* Crisis administration
+
+---
+
+# 20. SOCIOLOGY OPTIONAL — PAPER I
+
+# FUNDAMENTALS OF SOCIOLOGY
+
+## 20.1 Sociology — The Discipline
+
+* Modernity
+* Social changes in Europe
+* Emergence of Sociology
+* Industrial Revolution and Sociology
+* French Revolution and Sociology
+* Enlightenment
+* Scope of Sociology
+* Sociology versus other social sciences
+* Sociology and common sense
+
+## 20.2 Sociology as Science
+
+* Science
+* Scientific method
+* Scientific explanation
+* Major theoretical strands of research methodology
+* Positivism
+* Critique of positivism
+* Fact
+* Value
+* Objectivity
+* Value neutrality
+* Non-positivist methodologies
+
+## 20.3 Research Methods and Analysis
+
+* Qualitative methods
+* Quantitative methods
+* Techniques of data collection
+* Observation
+* Participant observation
+* Interview
+* Questionnaire
+* Schedule
+* Survey
+* Case study
+* Documents
+* Secondary data
+* Variables
+* Sampling
+* Probability sampling
+* Non-probability sampling
+* Hypothesis
+* Reliability
+* Validity
+* Research design
+* Measurement
+
+## 20.4 Sociological Thinkers — Karl Marx
+
+* Historical materialism
+* Dialectical materialism
+* Mode of production
+* Base and superstructure
+* Means of production
+* Relations of production
+* Alienation
+* Class
+* Class struggle
+* Bourgeoisie
+* Proletariat
+* Surplus value
+* Capitalism
+* Revolution
+
+## 20.5 Emile Durkheim
+
+* Social fact
+* Division of labour
+* Mechanical solidarity
+* Organic solidarity
+* Anomie
+* Suicide
+* Religion and society
+* Collective conscience
+* Collective representations
+* Sacred and profane
+
+## 20.6 Max Weber
+
+* Social action
+* Types of social action
+* Ideal types
+* Social relationship
+* Authority
+* Traditional authority
+* Charismatic authority
+* Legal-rational authority
+* Bureaucracy
+* Protestant ethic
+* Spirit of capitalism
+* Rationalisation
+* Status groups
+* Class
+
+## 20.7 Talcott Parsons
+
+* Social system
+* Action system
+* Pattern variables
+* AGIL
+* Structural functionalism
+* Social order
+* Equilibrium
+
+## 20.8 Robert K. Merton
+
+* Manifest functions
+* Latent functions
+* Dysfunction
+* Reference groups
+* Anomie
+* Conformity
+* Innovation
+* Ritualism
+* Retreatism
+* Rebellion
+* Middle-range theory
+* Functional analysis
+
+## 20.9 George Herbert Mead
+
+* Self
+* Identity
+* I and Me
+* Mind
+* Generalised other
+* Significant other
+* Role-taking
+* Symbolic interaction
+
+## 20.10 Stratification and Mobility
+
+* Equality
+* Inequality
+* Hierarchy
+* Exclusion
+* Poverty
+* Deprivation
+* Social stratification
+* Functionalist theory
+* Marxist theory
+* Weberian theory
+* Class
+* Status group
+* Gender
+* Ethnicity
+* Race
+* Social mobility
+* Open systems
+* Closed systems
+* Horizontal mobility
+* Vertical mobility
+* Intergenerational mobility
+* Intragenerational mobility
+* Sources of mobility
+* Causes of mobility
+
+## 20.11 Works and Economic Life
+
+* Social organisation of work
+* Slave society
+* Feudal society
+* Industrial capitalist society
+* Formal organisation
+* Informal organisation
+* Labour
+* Division of labour
+* Labour and society
+* Alienation
+* Bureaucratisation
+* Informalisation
+
+## 20.12 Politics and Society
+
+* Sociological theories of power
+* Power elite
+* Bureaucracy
+* Pressure groups
+* Political parties
+* Nation
+* State
+* Citizenship
+* Democracy
+* Civil society
+* Ideology
+* Protest
+* Agitation
+* Social movements
+* Collective action
+* Revolution
+
+## 20.13 Religion and Society
+
+* Sociological theories of religion
+* Functionalism and religion
+* Marxist view
+* Weberian view
+* Animism
+* Monism
+* Pluralism
+* Sects
+* Cults
+* Religion and science
+* Secularisation
+* Religious revivalism
+* Fundamentalism
+
+## 20.14 Systems of Kinship
+
+* Family
+* Household
+* Marriage
+* Types of family
+* Forms of family
+* Lineage
+* Descent
+* Patriarchy
+* Sexual division of labour
+* Contemporary family trends
+* Marriage patterns
+* Changing kinship
+
+## 20.15 Social Change in Modern Society
+
+* Sociological theories of social change
+* Evolutionary theory
+* Functionalist theory
+* Conflict theory
+* Cyclical theories
+* Development
+* Dependency
+* Modernisation
+* Agents of social change
+* Education and social change
+* Science and technology and social change
+
+---
+
+# 21. SOCIOLOGY OPTIONAL — PAPER II
+
+# INDIAN SOCIETY: STRUCTURE AND CHANGE
+
+## 21.1 Perspectives on Indian Society
+
+### Indology — G.S. Ghurye
+
+* Indological perspective
+* Caste
+* Tribe
+* Culture
+* Civilisation
+* Tribal assimilation
+
+### Structural Functionalism — M.N. Srinivas
+
+* Structural functionalism
+* Sanskritisation
+* Westernisation
+* Secularisation
+* Dominant caste
+* Village studies
+* Social change
+
+### Marxist Sociology — A.R. Desai
+
+* Marxist perspective
+* Indian nationalism
+* State
+* Class
+* Agrarian structure
+* Capitalism
+* Peasant movements
+
+## 21.2 Impact of Colonial Rule
+
+* Social background of Indian nationalism
+* Modernisation of Indian tradition
+* Colonial social transformation
+* Protests during colonial period
+* Social reform
+* Caste reform
+* Women's reform
+* Religious reform
+* Education
+* Census and classification
+* Colonial knowledge systems
+
+---
+
+# 22. SOCIOLOGY OPTIONAL — SOCIAL STRUCTURE OF INDIA
+
+## 22.1 Rural and Agrarian Social Structure
+
+* Idea of Indian village
+* Village studies
+* Village as social system
+* Rural stratification
+* Agrarian structure
+* Land tenure
+* Zamindari
+* Ryotwari
+* Mahalwari
+* Land reforms
+* Agrarian classes
+* Peasantry
+* Rural power structure
+
+## 22.2 Caste System
+
+* G.S. Ghurye
+* M.N. Srinivas
+* Louis Dumont
+* Andre Beteille
+* Perspectives on caste
+* Features of caste
+* Hierarchy
+* Purity and pollution
+* Endogamy
+* Occupational association
+* Untouchability
+* Sanskritisation
+* Dominant caste
+* Caste mobility
+* Caste politics
+* Changing caste
+
+## 22.3 Tribal Communities
+
+* Definitional problems
+* Tribal identity
+* Geographical spread
+* Colonial policy
+* Isolation
+* Assimilation
+* Integration
+* Autonomy
+* Tribe-caste continuum
+* Tribal movements
+* Tribal development
+
+## 22.4 Social Classes in India
+
+* Agrarian classes
+* Industrial classes
+* Working class
+* Middle class
+* New middle class
+* Bourgeoisie
+* Class consciousness
+* Class mobility
+* Class politics
+
+## 22.5 Kinship in India
+
+* Lineage
+* Descent
+* Kinship systems
+* Family
+* Marriage
+* Household
+* Patriarchy
+* Entitlements
+* Sexual division of labour
+* Regional variations
+* Changing family
+
+## 22.6 Religion and Society
+
+* Religious communities
+* Hinduism
+* Islam
+* Christianity
+* Sikhism
+* Buddhism
+* Jainism
+* Religious minorities
+* Minority issues
+* Communalism
+* Secularism
+* Religious identity
+
+---
+
+# 23. SOCIOLOGY OPTIONAL — SOCIAL CHANGE IN INDIA
+
+## 23.1 Visions of Social Change
+
+* Development planning
+* Mixed economy
+* Constitution and social change
+* Law and social change
+* Education and social change
+
+## 23.2 Rural and Agrarian Transformation
+
+* Rural development programmes
+* Community Development Programme
+* Cooperatives
+* Poverty alleviation
+* Green Revolution
+* Green Revolution and class
+* Changing modes of production
+* Rural labour
+* Bonded labour
+* Rural migration
+* Agrarian distress
+
+## 23.3 Industrialisation and Urbanisation
+
+* Evolution of modern industry
+* Industrialisation
+* Urbanisation
+* Urban growth
+* Urban settlements
+* Working class
+* Working-class structure
+* Working-class mobilisation
+* Informal sector
+* Child labour
+* Slums
+* Urban deprivation
+
+## 23.4 Politics and Society
+
+* Nation
+* Democracy
+* Citizenship
+* Political parties
+* Pressure groups
+* Social elite
+* Political elite
+* Regionalism
+* Decentralisation
+* Secularisation
+
+## 23.5 Social Movements in Modern India
+
+* Peasant movements
+* Farmers' movements
+* Women's movement
+* Backward-class movements
+* Dalit movements
+* Environmental movements
+* Ethnicity movements
+* Identity movements
+
+## 23.6 Population Dynamics
+
+* Population size
+* Population growth
+* Population composition
+* Population distribution
+* Birth rate
+* Death rate
+* Migration
+* Fertility
+* Population policy
+* Family planning
+* Ageing
+* Sex ratio
+* Child mortality
+* Infant mortality
+* Reproductive health
+* Demographic transition
+
+## 23.7 Challenges of Social Transformation
+
+* Crisis of development
+* Displacement
+* Environmental problems
+* Sustainability
+* Poverty
+* Deprivation
+* Inequality
+* Violence against women
+* Caste conflicts
+* Ethnic conflicts
+* Communalism
+* Religious revivalism
+* Illiteracy
+* Educational disparities
+
+---
+
+# 24. CROSS-SUBJECT INTEGRATION MAP
+
+These should NOT be treated as isolated tracker items. The tracker should allow one topic to have multiple subject links.
+
+## Polity ↔ Governance
+
+* Constitutional bodies
+* Accountability
+* Transparency
+* E-governance
+* Civil services
+* Local government
+* Welfare delivery
+
+## Polity ↔ Social Justice
+
+* Fundamental Rights
+* Reservation
+* Vulnerable groups
+* Equality
+* Social justice
+* Constitutional safeguards
+
+## Economy ↔ Geography
+
+* Resources
+* Agriculture
+* Industry
+* Infrastructure
+* Regional development
+* Transport
+
+## Economy ↔ Environment
+
+* Sustainable development
+* Energy
+* Green economy
+* Carbon markets
+* Agriculture
+* Resource efficiency
+
+## Geography ↔ Environment
+
+* Biomes
+* Biodiversity
+* Climate
+* Natural hazards
+* Water
+* Forests
+* Land degradation
+
+## Biology ↔ Environment
+
+* Ecosystems
+* Biodiversity
+* Species
+* Conservation
+* Diseases
+* Zoonoses
+* Biotechnology
+
+## Science & Technology ↔ Economy
+
+* AI
+* Semiconductors
+* Digital economy
+* Biotechnology
+* Space
+* Energy technologies
+
+## Science & Technology ↔ Internal Security
+
+* Cybersecurity
+* AI
+* Drones
+* Space security
+* Communication networks
+* Deepfakes
+
+## Society ↔ Sociology
+
+* Caste
+* Class
+* Tribe
+* Family
+* Religion
+* Gender
+* Social movements
+* Urbanisation
+* Globalisation
+* Population
+
+## Sociology ↔ Ethics
+
+* Social justice
+* Equality
+* Exclusion
+* Gender
+* Social institutions
+* Values
+* Social change
+
+## Sociology ↔ Essay
+
+* Development
+* Technology
+* Modernisation
+* Globalisation
+* Caste
+* Gender
+* Religion
+* Democracy
+* Social change
+
+## History ↔ Art & Culture
+
+* Religion
+* Architecture
+* Literature
+* Sculpture
+* Painting
+* Music
+* Bhakti
+* Sufi
+
+---
+
+# 25. HIGH-LEVEL TRACKER SUBJECT STRUCTURE
+
+Recommended top-level hierarchy for the coding agent:
+
+```text
+UPSC_CSE
+│
+├── PRELIMS
+│   ├── Polity
+│   ├── Economy
+│   ├── History
+│   │   ├── Ancient
+│   │   ├── Medieval
+│   │   ├── Modern
+│   │   └── Post_Independence
+│   ├── Geography
+│   │   ├── India
+│   │   └── World
+│   ├── Environment
+│   ├── Biology
+│   ├── Physics
+│   ├── Chemistry
+│   └── Science_and_Technology
+│
+├── MAINS_GS1
+│   ├── Art_and_Culture
+│   ├── Ancient
+│   ├── Medieval
+│   ├── Modern
+│   ├── Post_Independence
+│   ├── World_History
+│   ├── Geography_India
+│   ├── Geography_World
+│   └── Society
+│
+├── MAINS_GS2
+│   ├── Polity
+│   ├── Governance
+│   ├── Social_Justice
+│   └── International_Relations
+│
+├── MAINS_GS3
+│   ├── Economy
+│   ├── Agriculture
+│   ├── Science_and_Technology
+│   ├── Environment
+│   ├── Internal_Security
+│   └── Disaster_Management
+│
+├── MAINS_GS4
+│   └── Ethics_Integrity_Aptitude
+│
+└── SOCIOLOGY_OPTIONAL
+    ├── Paper_I
+    └── Paper_II
+```
+
+---
+
+# 26. IMPORTANT TRACKER RULE: DO NOT DUPLICATE TOPICS
+
+A coding agent should ideally store a topic once and attach multiple syllabus mappings.
+
+Example:
+
+```text
+TOPIC:
+Fundamental Rights
+
+MASTER_SUBJECT:
+Polity
+
+MAPPINGS:
+- PRELIMS
+- GS2
+- Ethics
+- Social Justice
+```
+
+Another:
+
+```text
+TOPIC:
+Urbanisation
+
+MASTER_SUBJECT:
+Society
+
+MAPPINGS:
+- GS1
+- Sociology Paper II
+- Geography
+- Economy
+- Social Justice
+- Environment
+```
+
+Another:
+
+```text
+TOPIC:
+Climate Change
+
+MASTER_SUBJECT:
+Environment
+
+MAPPINGS:
+- PRELIMS
+- GS1 Geography
+- GS3 Environment
+- Economy
+- Disaster Management
+- International Relations
+- Sociology Paper II
+```
+
+This will prevent you from having to mark the same underlying subject matter as "unrevised" five different times.
+
+---
+
+# 27. RECOMMENDED STATUS MODEL
+
+Each leaf topic should have:
+
+```text
+NOT_STARTED
+FIRST_STUDY
+REVISION_1
+REVISION_2
+REVISION_3
+REVISION_4
+REVISION_5_PLUS
+PYQ_DONE
+MOCK_TESTED
+STRONG
+WEAK
+```
+
+But do NOT use status as the only measure.
+
+Track these separately:
+
+```text
+knowledge_level
+recall_level
+pyq_level
+answer_writing_level
+confidence_level
+```
+
+A topic can therefore be:
+
+```text
+Knowledge: Strong
+Recall: Weak
+PYQ: Not done
+Mains Answer: Not done
+```
+
+That is much more useful than simply saying "completed."
+
+---
+
+# 28. RECOMMENDED REVISION TRACKER FIELDS
+
+For each topic:
+
+```text
+first_studied
+revision_count
+last_revised
+next_revision
+source
+pages
+lecture_reference
+pyq_attempted
+pyq_correct
+pyq_wrong
+pyq_skipped
+forgetting_register_entries
+mock_questions_attempted
+mock_accuracy
+gs_answers_written
+sociology_answers_written
+ethics_cases_written
+confidence
+```
+
+---
+
+# 29. FORGETTING REGISTER LINK
+
+Each forgetting-register entry should link back to the exact syllabus topic.
+
+Example:
+
+```text
+Topic:
+POL-1.3.4 Right to Equality
+
+Mistake_Type:
+FORGOT
+
+Question_Source:
+UPSC Prelims 2024
+
+Mistake:
+Confused reasonable classification with arbitrariness.
+
+Correction:
+...
+
+Revision_Required:
+Yes
+
+Next_Revision:
+2026-09-20
+```
+
+This makes the tracker capable of answering:
+
+> "Which Polity topics am I repeatedly forgetting?"
+
+rather than merely:
+
+> "Have I studied Polity?"
+
+---
+
+# 30. THE CORE PRINCIPLE FOR YOUR TRACKER
+
+Do NOT build a tracker that answers:
+
+> "How much have I studied?"
+
+Build one that answers:
+
+> "How exam-ready am I on every syllabus topic?"
+
+The ultimate dashboard should therefore be able to show:
+
+```text
+SYLLABUS COVERAGE
+RETENTION
+PYQ COVERAGE
+PYQ ACCURACY
+MOCK PERFORMANCE
+FORGETTING RATE
+REVISION FREQUENCY
+MAINS ANSWER COVERAGE
+SOCIOLOGY ANSWER COVERAGE
+ETHICS CASE STUDY COVERAGE
+```
+
+This is the structure that will be most useful for your particular preparation, because your historical problem has not been syllabus completion. It has been **recall + testing + conversion of knowledge into marks**.
+
+---
+
+# 31. ART AND CULTURE
+
+## 31.1 Indian Architecture
+
+### Ancient Architecture
+
+* Prehistoric architecture
+* Indus Valley Civilization architecture
+* Harappan town planning
+* Citadel and lower town
+* Drainage systems
+* Granaries
+* Assembly halls
+* Great Bath
+* Dockyards
+* Residential architecture
+* Buddhist architecture
+* Stupa architecture
+* Stupa components
+* Harmika
+* Chattra
+* Vedika
+* Torana
+* Chaitya
+* Vihara
+* Rock-cut architecture
+* Cave architecture
+* Ashokan pillars
+* Mauryan architecture
+* Gupta architecture
+* Temple architecture origins
+
+### Buddhist Architecture
+
+* Stupas
+* Types of stupas
+* Chaityas
+* Viharas
+* Rock-cut Buddhist architecture
+* Gandhara Buddhist architecture
+* Mathura Buddhist architecture
+* Amaravati school
+* Sanchi
+* Bharhut
+* Amaravati
+* Nagarjunakonda
+* Ajanta
+* Ellora
+* Kanheri
+* Karla
+* Bhaja
+* Buddhist architectural symbolism
+* Evolution of Buddhist architecture
+
+### Hindu Temple Architecture
+
+* Origins of temple architecture
+* Structural temples
+* Rock-cut temples
+* Garbhagriha
+* Antarala
+* Mandapa
+* Shikhara
+* Vimana
+* Gopuram
+* Amalaka
+* Jagati
+* Pradakshina patha
+* Temple iconography
+
+### Nagara Architecture
+
+* Characteristics
+* Shikhara
+* Rekha Prasada
+* Latina
+* Bhumija
+* Valabhi
+* Mandapas
+* Regional variations
+* Khajuraho
+* Konark
+* Kandariya Mahadeva
+* Lingaraja
+* Jagannath
+* Modhera
+
+### Dravida Architecture
+
+* Characteristics
+* Vimana
+* Gopuram
+* Mandapa
+* Temple tanks
+* Prakara
+* Chola architecture
+* Pallava architecture
+* Chalukyan influence
+* Brihadisvara
+* Shore Temple
+* Kailasanatha
+* Meenakshi-type temple complexes
+
+### Vesara Architecture
+
+* Characteristics
+* Deccan architecture
+* Chalukyan architecture
+* Hoysala architecture
+* Pattadakal
+* Aihole
+* Badami
+* Hoysaleshvara
+* Chennakesava
+* Star-shaped temples
+
+### Regional Temple Architecture
+
+* Kashmir
+* Bengal
+* Odisha
+* Rajasthan
+* Gujarat
+* Maharashtra
+* Madhya Pradesh
+* Kerala
+* Tamil Nadu
+* Karnataka
+* Andhra Pradesh
+* Telangana
+* North-East India
+
+### Indo-Islamic Architecture
+
+* Introduction
+* Arcuate architecture
+* Trabeate architecture
+* Arch
+* Dome
+* Minaret
+* Vault
+* Squinch
+* Muqarnas
+* Calligraphy
+* Geometric ornamentation
+
+### Sultanate Architecture
+
+* Early Sultanate architecture
+* Slave dynasty architecture
+* Khalji architecture
+* Tughlaq architecture
+* Sayyid architecture
+* Lodi architecture
+* Arcuate construction
+* Forts
+* Mosques
+* Tombs
+* Qutub complex
+* Alai Darwaza
+* Tughlaqabad
+* Lodi tombs
+
+### Mughal Architecture
+
+* Babur's architecture
+* Humayun's tomb
+* Akbar's architecture
+* Fatehpur Sikri
+* Agra Fort
+* Jahangir's architecture
+* Mughal gardens
+* Shah Jahan's architecture
+* Taj Mahal
+* Red Fort
+* Jama Masjid
+* Aurangzeb-era architecture
+* Mughal architectural synthesis
+
+### Deccan and Provincial Indo-Islamic Architecture
+
+* Bahmani architecture
+* Deccan Sultanate architecture
+* Gol Gumbaz
+* Charminar
+* Bidar architecture
+* Bijapur architecture
+* Golconda architecture
+* Bengal Sultanate architecture
+* Gujarat Sultanate architecture
+* Malwa architecture
+* Kashmir architecture
+
+### Sikh Architecture
+
+* Sikh architectural traditions
+* Golden Temple
+* Gurdwara architecture
+* Sikh religious architecture
+
+### Colonial Architecture
+
+* Portuguese architecture
+* Dutch architecture
+* French architecture
+* British architecture
+* Neo-classical
+* Gothic Revival
+* Indo-Saracenic
+* Art Deco
+* Colonial urban architecture
+* Railway architecture
+* Institutional architecture
+* Lutyens' Delhi
+
+### Modern and Contemporary Indian Architecture
+
+* Post-independence architecture
+* Modernism
+* Brutalism
+* Critical regionalism
+* Sustainable architecture
+* Vernacular revival
+* Contemporary Indian architecture
+* Important modern architects
+
+## 31.2 Indian Sculpture
+
+### Prehistoric and Harappan Sculpture
+
+* Harappan terracotta
+* Bronze sculpture
+* Dancing Girl
+* Priest-King
+* Terracotta figurines
+* Animal figurines
+* Seals
+
+### Mauryan Sculpture
+
+* Mauryan polish
+* Yaksha and Yakshi
+* Ashokan pillars
+* Lion Capital
+* Animal capitals
+
+### Post-Mauryan Sculpture
+
+* Gandhara school
+* Mathura school
+* Amaravati school
+* Buddhist sculpture
+* Bodhisattva images
+* Buddha iconography
+
+### Gandhara School
+
+* Greco-Buddhist influence
+* Material
+* Features
+* Buddha imagery
+* Drapery
+* Facial features
+* Iconographic characteristics
+
+### Mathura School
+
+* Red sandstone
+* Indigenous traditions
+* Buddha imagery
+* Jain imagery
+* Brahmanical imagery
+* Sculptural characteristics
+
+### Amaravati School
+
+* White limestone
+* Narrative reliefs
+* Buddhist themes
+* Dynamic figures
+* Regional characteristics
+
+### Gupta Sculpture
+
+* Sarnath school
+* Mathura school
+* Buddha images
+* Hindu sculpture
+* Jain sculpture
+* Idealised forms
+
+### Medieval Sculpture
+
+* Pallava sculpture
+* Chola sculpture
+* Chola bronzes
+* Nataraja
+* Chalukyan sculpture
+* Hoysala sculpture
+* Odisha sculpture
+* Khajuraho sculpture
+* Pala sculpture
+
+### Iconography
+
+* Hindu iconography
+* Buddhist iconography
+* Jain iconography
+* Mudras
+* Asanas
+* Attributes
+* Vahanas
+* Symbolism
+* Divine iconography
+
+## 31.3 Painting
+
+### Prehistoric Painting
+
+* Bhimbetka
+* Rock paintings
+* Themes
+* Techniques
+* Materials
+* Symbolism
+
+### Ancient Painting
+
+* Ajanta paintings
+* Bagh paintings
+* Sittanavasal
+* Buddhist murals
+* Hindu murals
+* Jain painting traditions
+
+### Classical and Early Medieval Painting
+
+* Ajanta tradition
+* Pala painting
+* Buddhist manuscript painting
+* Jain manuscript painting
+* Palm-leaf manuscripts
+
+### Mughal Painting
+
+* Origins
+* Persian influence
+* Akbar's atelier
+* Jahangir's painting
+* Shah Jahan period
+* Themes
+* Portraiture
+* Nature studies
+* Manuscript illustration
+* Miniature technique
+* European influence
+
+### Rajput Painting
+
+* Mewar
+* Marwar
+* Bundi
+* Kota
+* Jaipur
+* Bikaner
+* Kishangarh
+* Krishna themes
+* Court scenes
+* Ragas
+* Seasons
+
+### Pahari Painting
+
+* Basohli
+* Guler
+* Kangra
+* Chamba
+* Kullu
+* Garhwal
+* Krishna themes
+* Nature
+* Romance
+* Bhakti
+
+### Deccani Painting
+
+* Ahmadnagar
+* Bijapur
+* Golconda
+* Hyderabad
+* Characteristics
+* Persian influence
+* Mughal influence
+
+### Folk and Tribal Painting
+
+* Madhubani
+* Warli
+* Gond
+* Pattachitra
+* Kalamkari
+* Phad
+* Cheriyal
+* Saura
+* Mandana
+* Bhil painting
+* Sohrai
+* Other regional traditions
+
+### Modern Indian Painting
+
+* Bengal School
+* Raja Ravi Varma
+* Abanindranath Tagore
+* Nandalal Bose
+* Jamini Roy
+* Amrita Sher-Gil
+* Progressive Artists' Group
+* M.F. Husain
+* S.H. Raza
+* F.N. Souza
+* Tyeb Mehta
+* Modern Indian art movements
+
+## 31.4 Indian Music
+
+### Fundamentals
+
+* Nada
+* Shruti
+* Swara
+* Raga
+* Tala
+* Laya
+* Gharana
+* Improvisation
+* Musical forms
+* Composition
+
+### Hindustani Classical Music
+
+* Origins
+* Characteristics
+* Raga system
+* Tala system
+* Dhrupad
+* Dhamar
+* Khayal
+* Thumri
+* Tappa
+* Tarana
+* Dadra
+* Ghazal
+* Gharana system
+
+### Carnatic Classical Music
+
+* Origins
+* Melakarta system
+* Raga
+* Tala
+* Kriti
+* Varnam
+* Tillana
+* Major composers
+* Trinity of Carnatic music
+
+### Major Hindustani Gharanas
+
+* Gwalior
+* Agra
+* Jaipur-Atrauli
+* Kirana
+* Patiala
+* Delhi
+* Rampur-Sahaswan
+* Banaras
+
+### Major Musical Instruments
+
+* String — Sitar
+* String — Sarod
+* String — Veena
+* String — Santoor
+* String — Tanpura
+* String — Violin
+* String — Sarangi
+* Wind — Bansuri
+* Wind — Shehnai
+* Wind — Nadaswaram
+* Percussion — Tabla
+* Percussion — Pakhawaj
+* Percussion — Mridangam
+* Percussion — Ghatam
+* Percussion — Kanjira
+* Percussion — Dhol
+
+### Folk Music
+
+* Regional folk traditions
+* Ballads
+* Devotional folk
+* Work songs
+* Tribal music
+* Festival music
+
+### Devotional Music
+
+* Bhakti music
+* Sufi music
+* Qawwali
+* Abhang
+* Bhajan
+* Kirtan
+* Varkari tradition
+
+### Major Musical Personalities
+
+* Tansen
+* Swami Haridas
+* Tyagaraja
+* Muthuswami Dikshitar
+* Syama Sastri
+* Purandara Dasa
+* Amir Khusrau
+* Major modern musicians
+
+### Evolution of Indian Music
+
+* Vedic music
+* Natya Shastra
+* Sangita Ratnakara
+* Medieval developments
+* Mughal influence
+* Colonial period
+* Modern institutionalisation
+
+## 31.5 Indian Dance
+
+### Classical Dance — Foundations
+
+* Natya Shastra
+* Nritta
+* Nritya
+* Natya
+* Abhinaya
+* Rasa
+* Bhava
+* Mudras
+* Lasya
+* Tandava
+
+### Bharatanatyam
+
+* Origin
+* Devadasi tradition
+* Margam
+* Adavus
+* Abhinaya
+* Costume
+* Music
+* Important personalities
+
+### Kathak
+
+* Origin
+* Kathakars
+* Temple tradition
+* Mughal influence
+* Gharanas — Lucknow
+* Gharanas — Jaipur
+* Gharanas — Banaras
+* Characteristics
+
+### Kathakali
+
+* Origin
+* Kerala
+* Themes
+* Costume
+* Makeup
+* Mudras
+* Facial expression
+* Martial influence
+
+### Kuchipudi
+
+* Origin
+* Andhra Pradesh
+* Yakshagana influence
+* Dance-drama
+* Characteristics
+
+### Odissi
+
+* Origin
+* Odisha
+* Mahari tradition
+* Gotipua
+* Tribhanga
+* Chauka
+* Jagannath tradition
+
+### Manipuri
+
+* Origin
+* Vaishnavism
+* Ras Leela
+* Lasya
+* Costume
+* Characteristics
+
+### Mohiniyattam
+
+* Origin
+* Kerala
+* Lasya
+* Costume
+* Characteristics
+
+### Sattriya
+
+* Origin
+* Assam
+* Sankardeva
+* Vaishnavism
+* Sattras
+* Characteristics
+
+### Chhau
+
+* Purulia
+* Seraikella
+* Mayurbhanj
+* Martial origins
+* Masks
+* Characteristics
+
+### Other Dance Traditions
+
+* Yakshagana
+* Bhagavata Mela
+* Dollu Kunitha
+* Ghoomar
+* Garba
+* Dandiya
+* Bihu dance
+* Rouf
+* Lavani
+* Bhangra
+* Giddha
+* Kalbelia
+* Cheraw
+* Hojagiri
+* Other regional dances
+
+## 31.6 Theatre and Drama
+
+### Classical Indian Theatre
+
+* Natya Shastra
+* Sanskrit theatre
+* Natyadharmi
+* Lokadharmi
+* Rasa
+* Abhinaya
+* Stage conventions
+
+### Sanskrit Theatre
+
+* Bhasa
+* Kalidasa
+* Shudraka
+* Bhavabhuti
+* Vishakhadatta
+
+### Traditional Theatre Forms
+
+* Kutiyattam
+* Yakshagana
+* Kathakali
+* Therukoothu
+* Nautanki
+* Tamasha
+* Jatra
+* Bhavai
+* Swang
+* Maach
+* Ankia Nat
+* Bhaona
+* Burrakatha
+* Bhand Pather
+* Dashavatar
+* Other regional forms
+
+### Modern Indian Theatre
+
+* Colonial theatre
+* Parsi theatre
+* IPTA
+* Modern Indian drama
+* Regional theatre movements
+* Contemporary theatre
+
+## 31.7 Puppetry
+
+### Traditional Puppetry Forms
+
+* String puppets
+* Glove puppets
+* Rod puppets
+* Shadow puppets
+
+### Regional Forms
+
+* Kathputli
+* Bommalattam
+* Putul Nach
+* Togalu Gombeyata
+* Tholu Bommalata
+* Gombeyatta
+* Yampuri
+* Ravana Chhaya
+* Kundhei
+* Other regional forms
+
+### Puppetry Traditions
+
+* Materials
+* Construction
+* Performance
+* Themes
+* Storytelling
+* Music
+* Regional variations
+
+## 31.8 Indian Literature
+
+### Ancient Literature
+
+* Vedas
+* Brahmanas
+* Aranyakas
+* Upanishads
+* Vedangas
+* Itihasa
+* Ramayana
+* Mahabharata
+* Puranas
+* Buddhist literature
+* Jain literature
+* Sangam literature
+* Arthashastra
+* Classical Sanskrit literature
+
+### Sanskrit Literature
+
+* Kalidasa
+* Bhasa
+* Bhavabhuti
+* Banabhatta
+* Dandin
+* Bharavi
+* Magha
+* Vishakhadatta
+* Sanskrit drama
+* Sanskrit poetry
+* Sanskrit prose
+* Alankara tradition
+
+### Buddhist Literature
+
+* Tripitaka
+* Jataka
+* Buddhist Sanskrit literature
+* Mahayana literature
+
+### Jain Literature
+
+* Agamas
+* Prakrit literature
+* Apabhramsha
+* Jain narratives
+
+### Tamil / Sangam Literature
+
+* Sangam corpus
+* Ettuthokai
+* Pattuppattu
+* Tolkappiyam
+* Tirukkural
+* Sangam society
+* Sangam themes
+
+### Bhakti Literature
+
+* Alvars
+* Nayanars
+* Kabir
+* Tulsidas
+* Surdas
+* Mirabai
+* Guru Nanak
+* Namdev
+* Tukaram
+* Dnyaneshwar
+* Chaitanya
+* Andal
+* Basavanna
+* Regional Bhakti literature
+
+### Sufi Literature
+
+* Persian Sufi literature
+* Hindavi traditions
+* Amir Khusrau
+* Sufi poetry
+* Premakhyan traditions
+
+### Medieval Regional Literature
+
+* Hindi
+* Bengali
+* Marathi
+* Gujarati
+* Punjabi
+* Assamese
+* Odia
+* Telugu
+* Kannada
+* Malayalam
+* Tamil
+* Kashmiri
+* Sindhi
+* Urdu
+
+### Modern Indian Literature
+
+* Indian Renaissance
+* Colonial literature
+* Indian writing in English
+* Nationalist literature
+* Progressive writing
+* Dalit literature
+* Women's literature
+* Regional modern literature
+* Postcolonial literature
+
+### Literary Languages and Scripts
+
+* Brahmi
+* Kharosthi
+* Devanagari
+* Grantha
+* Sharada
+* Gurmukhi
+* Persian script
+* Nastaliq
+* Tamil script
+* Telugu script
+* Kannada script
+* Malayalam script
+* Bengali script
+* Odia script
+* Evolution of Indian scripts
+
+## 31.9 Philosophy and Religious Traditions
+
+### Vedic Tradition
+
+* Vedas
+* Brahmanas
+* Upanishads
+* Vedanta
+* Concepts of Dharma
+* Karma
+* Moksha
+* Atman
+* Brahman
+
+### Six Orthodox Schools
+
+* Nyaya
+* Vaisheshika
+* Samkhya
+* Yoga
+* Mimamsa
+* Vedanta
+* Major thinkers
+* Major concepts
+* Schools of Vedanta
+
+### Buddhist Philosophy
+
+* Four Noble Truths
+* Eightfold Path
+* Middle Path
+* Anitya
+* Anatman
+* Pratityasamutpada
+* Nirvana
+* Theravada
+* Mahayana
+* Vajrayana
+
+### Jain Philosophy
+
+* Ahimsa
+* Anekantavada
+* Syadvada
+* Aparigraha
+* Triratna
+* Karma
+* Liberation
+
+### Bhakti Tradition
+
+* Saguna
+* Nirguna
+* Vaishnavism
+* Shaivism
+* Shaktism
+* Regional traditions
+* Social impact
+
+### Sufism
+
+* Concepts
+* Orders
+* Chishti
+* Suhrawardi
+* Qadiri
+* Naqshbandi
+* Khanqah
+* Pir-Murid
+* Sama
+* Social influence
+* Cultural synthesis
+
+### Sikhism
+
+* Guru Nanak
+* Ten Gurus
+* Guru Granth Sahib
+* Khalsa
+* Five Ks
+* Sikh philosophy
+* Institutions
+* Sikh art and architecture
+
+## 31.10 Religious Architecture and Iconography
+
+### Hindu Traditions
+
+* Shaiva
+* Vaishnava
+* Shakta
+* Temple symbolism
+* Iconography
+* Major deities
+* Forms and attributes
+
+### Buddhist Traditions
+
+* Buddha
+* Bodhisattvas
+* Stupa symbolism
+* Vajrayana iconography
+
+### Jain Traditions
+
+* Tirthankaras
+* Symbols
+* Jain temples
+* Iconography
+
+### Islamic Art and Architecture
+
+* Mosques
+* Tombs
+* Gardens
+* Calligraphy
+* Arabesque
+* Geometric motifs
+* Persian influence
+* Indian synthesis
+
+### Sikh Art and Architecture
+
+* Gurdwaras
+* Sikh manuscripts
+* Sikh painting traditions
+* Religious symbols
+
+## 31.11 Handicrafts and Traditional Arts
+
+### Textile Traditions
+
+* Silk traditions
+* Cotton traditions
+* Wool traditions
+* Handloom
+* Khadi
+* Banarasi
+* Kanjeevaram
+* Chanderi
+* Maheshwari
+* Pochampally
+* Patola
+* Kalamkari
+* Ikat
+* Bandhani
+* Chikankari
+* Phulkari
+* Kantha
+
+### Embroidery
+
+* Chikankari
+* Phulkari
+* Kantha
+* Kasuti
+* Toda embroidery
+* Zardozi
+* Sujani
+* Kutch embroidery
+
+### Pottery and Ceramics
+
+* Terracotta
+* Blue pottery
+* Black pottery
+* Regional ceramic traditions
+* Khurja pottery
+* Longpi pottery
+
+### Metal Craft
+
+* Dhokra
+* Bell metal
+* Brassware
+* Bidri
+* Thanjavur metalwork
+* Temple metal craft
+* Lost-wax technique
+
+### Wood and Stone Craft
+
+* Wood carving
+* Stone carving
+* Sandalwood carving
+* Kathputli-related craft
+* Regional carving traditions
+
+### Jewellery and Decorative Arts
+
+* Traditional jewellery
+* Temple jewellery
+* Filigree
+* Meenakari
+* Thewa
+* Kundan
+* Jadau
+* Lac jewellery
+
+### Other Traditional Arts
+
+* Pattachitra
+* Madhubani
+* Phad
+* Gond
+* Warli
+* Kalamkari
+* Thanjavur painting
+* Rogan
+* Cheriyal
+* Saura
+* Other GI-linked crafts
+
+## 31.12 Cultural Institutions
+
+* Archaeological Survey of India
+* Indian Council for Cultural Relations
+* Sangeet Natak Akademi
+* Sahitya Akademi
+* Lalit Kala Akademi
+* National School of Drama
+* National Archives
+* National Museum
+* Indira Gandhi National Centre for the Arts
+* Centre for Cultural Resources and Training
+* Zonal Cultural Centres
+* National Mission on Manuscripts
+* Museums
+* Archives
+* Libraries
+* Cultural academies
+* Intangible cultural heritage institutions
+
+## 31.13 Heritage
+
+### Tangible Cultural Heritage
+
+* Monuments
+* Archaeological sites
+* Historic cities
+* Forts
+* Palaces
+* Temples
+* Mosques
+* Churches
+* Buddhist sites
+* Jain sites
+* Stepwells
+* Water architecture
+* Cultural landscapes
+
+### Intangible Cultural Heritage
+
+* Oral traditions
+* Performing arts
+* Rituals
+* Festivals
+* Traditional knowledge
+* Craftsmanship
+* Social practices
+* Food traditions
+* Indigenous knowledge
+
+### UNESCO Heritage
+
+* UNESCO World Heritage Convention
+* World Heritage Sites
+* Cultural sites
+* Natural sites
+* Mixed sites
+* Tentative lists
+* World Heritage Committee
+* UNESCO Intangible Cultural Heritage
+* Memory of the World
+
+### Heritage Conservation
+
+* Conservation principles
+* Preservation
+* Restoration
+* Adaptive reuse
+* Archaeological conservation
+* Heritage legislation
+* Heritage tourism
+* Community participation
+* Urban heritage conservation
+* Museum conservation
+
+## 31.14 Festivals and Fairs
+
+### Religious Festivals
+
+* Hindu festivals
+* Buddhist festivals
+* Jain festivals
+* Sikh festivals
+* Islamic festivals in Indian cultural context
+* Christian festivals in Indian cultural context
+
+### Regional Festivals
+
+* Bihu
+* Pongal
+* Onam
+* Durga Puja
+* Rath Yatra
+* Ganesh Chaturthi
+* Hornbill
+* Losar
+* Hemis
+* Pushkar
+* Kumbh
+* Thrissur Pooram
+* Other regional festivals
+
+### Cultural Fairs
+
+* Pushkar Fair
+* Sonepur Fair
+* Surajkund
+* Crafts fairs
+* Tribal festivals
+* Harvest festivals
+
+## 31.15 Indian Cultural Traditions
+
+### Tribal Culture
+
+* Tribal art
+* Tribal music
+* Tribal dance
+* Tribal religion
+* Tribal festivals
+* Traditional knowledge
+* Oral traditions
+* Material culture
+
+### Folk Culture
+
+* Folk songs
+* Folk dances
+* Folk theatre
+* Folk painting
+* Folk crafts
+* Folk storytelling
+* Oral traditions
+
+### Classical versus Folk Traditions
+
+* Definitions
+* Differences
+* Interaction
+* Sanskritisation
+* Regionalisation
+* Institutionalisation
+
+### Syncretic Traditions
+
+* Indo-Islamic cultural synthesis
+* Bhakti-Sufi synthesis
+* Composite culture
+* Ganga-Jamuni traditions
+* Shared festivals
+* Shared artistic traditions
+
+## 31.16 Ancient Cultural Traditions
+
+* Vedic culture
+* Harappan cultural traditions
+* Buddhist culture
+* Jain culture
+* Sangam culture
+* Mauryan cultural traditions
+* Gupta cultural traditions
+* Gandhara culture
+* Mathura culture
+* Amaravati culture
+* Classical Sanskrit culture
+* Early temple traditions
+
+## 31.17 Medieval Cultural Traditions
+
+* Sultanate cultural developments
+* Persian influence
+* Mughal culture
+* Indo-Persian culture
+* Bhakti movement
+* Sufi movement
+* Sikh tradition
+* Deccan cultural traditions
+* Mughal miniature painting
+* Regional painting schools
+* Regional literature
+* Music traditions
+* Architecture
+* Composite culture
+
+## 31.18 Modern Cultural Developments
+
+* Colonial impact on Indian culture
+* Cultural renaissance
+* Bengal Renaissance
+* Print culture
+* Modern education and culture
+* Colonial art institutions
+* Nationalist art
+* Revivalism
+* Bengal School
+* Indian cinema origins
+* Theatre movements
+* Modern literature
+* Cultural nationalism
+* Post-independence cultural institutions
+
+## 31.19 Cinema and Mass Culture
+
+* Origins of Indian cinema
+* Silent cinema
+* Early Indian film
+* Regional cinema
+* Parallel cinema
+* Indian film institutions
+* Censorship
+* Cinema and society
+* Cinema as cultural diplomacy
+* Documentary tradition
+* Animation
+* Television and popular culture
+* Digital cultural production
+
+## 31.20 Museums, Manuscripts and Archaeology
+
+### Archaeology
+
+* Archaeological methods
+* Excavation
+* Dating methods
+* Epigraphy
+* Numismatics
+* Archaeological interpretation
+* Conservation
+
+### Inscriptions
+
+* Ashokan inscriptions
+* Brahmi
+* Kharosthi
+* Sanskrit inscriptions
+* Tamil inscriptions
+* Copper plates
+
+### Coins
+
+* Punch-marked coins
+* Indo-Greek coins
+* Kushana coins
+* Gupta coins
+* Medieval coins
+* Mughal coins
+* Numismatic interpretation
+
+### Manuscripts
+
+* Palm-leaf manuscripts
+* Birch-bark manuscripts
+* Illustrated manuscripts
+* Manuscript conservation
+* Manuscript traditions
+* National Mission for Manuscripts
+
+### Museums
+
+* Types of museums
+* Museum conservation
+* Museum education
+* Digital museums
+* Cultural property
+
+## 31.21 Important Concepts and Terminology
+
+* Rasa
+* Bhava
+* Abhinaya
+* Nritta
+* Nritya
+* Natya
+* Mudra
+* Tala
+* Raga
+* Shruti
+* Gharana
+* Shikhara
+* Vimana
+* Gopuram
+* Garbhagriha
+* Mandapa
+* Stupa
+* Chaitya
+* Vihara
+* Torana
+* Vedika
+* Harmika
+* Pradakshina
+* Amalaka
+* Prakara
+* Arcuate
+* Trabeate
+* Squinch
+* Muqarnas
+* Fresco
+* Mural
+* Miniature
+* Tempera
+* Intaglio
+* Relief
+* Lost-wax technique
+* Iconography
+* Epigraphy
+* Numismatics
+* Intangible cultural heritage
+* Tangible cultural heritage
+* Cultural landscape
+
+## 31.22 Cultural Geography / Regional Mapping
+
+* Classical dance — state/region mapping
+* Folk dance — state/region mapping
+* Folk theatre — state/region mapping
+* Folk music — state/region mapping
+* Painting — state/region mapping
+* Handicraft — state/region mapping
+* Textile — state/region mapping
+* GI-tagged craft — state/region mapping
+* Temple — state/region mapping
+* Stupa — state/region mapping
+* Cave — state/region mapping
+* Monument — state/region mapping
+* UNESCO site — state/region mapping
+* Festival — state/region mapping
+* Tribal art — tribe/region mapping
+* Musical instrument — region mapping
+* Literary tradition — language/region mapping
